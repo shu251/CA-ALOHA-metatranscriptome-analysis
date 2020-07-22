@@ -1,0 +1,166 @@
+Location	Depth	Note	Type	Unit	Value	Source
+Catalina	surface		NH4	μM	1.04	our lab
+Port of LA	surface		NH4	μM	3.32	our lab
+SPOT	150		NH4	μM	0.06	our lab
+SPOT	885		NH4	μM	7.88	our lab
+SPOT	surface		NH4	μM	0.00	Fuhrman lab
+ALOHA	150	Averaged July and March	Chlorophyll	uG/L	0.42445	SCOPE Core (CTD upcast)
+ALOHA	150	Averaged July and March	Chlorophyll	μg/l	0.113146608	SCOPE Core (CTD upcast)
+ALOHA	1000	Averaged July and March	Chlorophyll	uG/L	0.0955	SCOPE Core (CTD upcast)
+ALOHA	DCM	Averaged July and March	Chlorophyll	uG/L	0.5714	SCOPE Core (CTD upcast)
+ALOHA	DCM	Averaged July and March	Chlorophyll	μg/l	0.442032026	SCOPE Core (CTD upcast)
+ALOHA	surface	Averaged July and March	Chlorophyll	uG/L	0.17495	SCOPE Core (CTD upcast)
+ALOHA	surface	Averaged July and March	Chlorophyll	μg/l	0.100569577	SCOPE Core (CTD upcast)
+ALOHA July	150		Chlorophyll	uG/L	0.5143	SCOPE Core (CTD upcast)
+ALOHA July	150	same day, separate cast	Chlorophyll	μg/l	0.0862	SCOPE Core (CTD upcast)
+ALOHA July	1000		Chlorophyll	uG/L	0.1235	SCOPE Core (CTD upcast)
+ALOHA July	DCM		Chlorophyll	uG/L	0.9009	SCOPE Core (CTD upcast)
+ALOHA July	DCM	same day, separate cast, SIMILAR depth	Chlorophyll	μg/l	0.1687	SCOPE Core (CTD upcast)
+ALOHA July	surface		Chlorophyll	uG/L	0.2553	SCOPE Core (CTD upcast)
+ALOHA July	surface	same day, separate cast	Chlorophyll	μg/l	0.1282	SCOPE Core (CTD upcast)
+ALOHA March	150		Chlorophyll	uG/L	0.3346	SCOPE Core (CTD upcast)
+ALOHA March	150	separate cast and day (2 day)	Chlorophyll	μg/l	0.1401	SCOPE Core (CTD upcast)
+ALOHA March	1000		Chlorophyll	uG/L	0.0675	SCOPE Core (CTD upcast)
+ALOHA March	DCM	separate cast and day (2 day)	Chlorophyll	μg/l	0.2420	SCOPE Core (CTD upcast)
+ALOHA March	DCM		Chlorophyll	uG/L	0.7154	SCOPE Core (CTD upcast)
+ALOHA March	surface		Chlorophyll	uG/L	0.0946	SCOPE Core (CTD upcast)
+ALOHA March	surface	separate cast and day (2 day)	Chlorophyll	μg/l	0.0730	SCOPE Core (CTD upcast)
+Catalina	surface		Chlorophyll	μg/l	0.40	our lab
+Port of LA	surface		Chlorophyll	μg/l	6.60	our lab
+SPOT	150		Chlorophyll	μg/l	0.01	our lab
+SPOT	885		Chlorophyll	μg/l	0.01	our lab
+SPOT	surface		Chlorophyll	μg/l	0.20	our lab
+ALOHA July	water col	1: 0.125 kg/m3 density offset from 1 db	Mixed Layer Depth	m	36	SCOPE Core (CTD upcast)
+ALOHA July	water col	2: 0.5   deg C temperature offset from 1 db	Mixed Layer Depth	m	36	SCOPE Core (CTD upcast)
+ALOHA July	water col	3: 0.03  kg/m3 density offset from 10 db	Mixed Layer Depth	m	21	SCOPE Core (CTD upcast)
+ALOHA March	water col	1: 0.125 kg/m3 density offset from 1 db	Mixed Layer Depth	m	25	SCOPE Core (CTD upcast)
+ALOHA March	water col	2: 0.5   deg C temperature offset from 1 db	Mixed Layer Depth	m	44	SCOPE Core (CTD upcast)
+ALOHA March	water col	3: 0.03  kg/m3 density offset from 10 db	Mixed Layer Depth	m	12	SCOPE Core (CTD upcast)
+ALOHA March	150	separate cast, same day	NH4	μM	0.00104	Karl lab (Curless processed)- average from reps
+ALOHA March	DCM	separate cast, same day	NH4	μM	0.15	Karl lab (Curless processed)
+ALOHA March	surface	separate cast, same day	NH4	μM	0.02	Karl lab (Curless processed)
+Catalina	surface		Nitrate	μM	0.15	our lab
+Port of LA	surface		Nitrate	μM	-0.12	our lab
+SPOT	150		Nitrate	μM	0.12	our lab
+SPOT	885		Nitrate	μM	-0.27	our lab
+SPOT	surface		Nitrate	μM	0.25	our lab
+Catalina	surface		Nitrate and nitrite	μmol/l	0.34	our lab
+Port of LA	surface		Nitrate and nitrite	μmol/l	0.27	our lab
+SPOT	150		Nitrate and nitrite	μmol/l	27.37	our lab
+SPOT	885		Nitrate and nitrite	μmol/l	38.22	our lab
+SPOT	surface		Nitrate and nitrite	μmol/l	1.17	our lab
+ALOHA July	150	same day, separate cast	Nitrate and nitrite	μmol/l	0.659	SCOPE Core (CTD upcast)
+ALOHA July	DCM	same day, separate cast, SIMILAR depth	Nitrate and nitrite	μmol/l	0.18	SCOPE Core (CTD upcast)
+ALOHA July	surface	same day, separate cast	Nitrate and nitrite	μmol/l	0.011	BD- (use LLN) SCOPE Core (CTD upcast)
+ALOHA March	150	separate cast and day (2 day)	Nitrate and nitrite	μmol/l	0.490	SCOPE Core (CTD upcast)
+ALOHA March	DCM	separate cast and day (2 day)	Nitrate and nitrite	μmol/l	0.068	SCOPE Core (CTD upcast)
+ALOHA March	surface	separate cast and day (2 day)	Nitrate and nitrite	μmol/l	0.055	SCOPE Core (CTD upcast)
+Catalina	surface		Nitrite	μM	0.08	our lab
+Port of LA	surface		Nitrite	μM	0.12	our lab
+SPOT	150		Nitrite	μM	0.10	our lab
+SPOT	885		Nitrite	μM	0.13	our lab
+SPOT	surface		Nitrite	μM	0.08	our lab
+ALOHA July	15	day before (surface?)	Nitrogen	nmol/l	4	LLN, average of day, SCOPE Core (CTD upcast)
+ALOHA July	15	day after (surface?)	Nitrogen	nmol/l	3.7	LLN, average of day, SCOPE Core (CTD upcast)
+ALOHA July	150		Oxygen	uMOL/L	206.34	SCOPE Core (CTD upcast)
+ALOHA July	1000		Oxygen	uMOL/L	42.86	SCOPE Core (CTD upcast)
+ALOHA July	DCM		Oxygen	uMOL/L	212.08	SCOPE Core (CTD upcast)
+ALOHA July	surface		Oxygen	uMOL/L	211.63	SCOPE Core (CTD upcast)
+ALOHA March	150		Oxygen	uMOL/L	202.64	SCOPE Core (CTD upcast)
+ALOHA March	1000		Oxygen	uMOL/L	46.04	SCOPE Core (CTD upcast)
+ALOHA March	DCM		Oxygen	uMOL/L	209.02	SCOPE Core (CTD upcast)
+ALOHA March	surface		Oxygen	uMOL/L	215.29	SCOPE Core (CTD upcast)
+Catalina	surface		Oxygen	uMOL/L	222.41178	CTD - Wrigley casts
+Port of LA	surface		Oxygen	uMOL/L	230.00415	CTD - Wrigley casts
+SPOT	150		Oxygen	uMOL/L	73.69065	CTD - Wrigley casts
+SPOT	885		Oxygen	uMOL/L	6.69915	CTD - Wrigley casts
+SPOT	surface		Oxygen	uMOL/L	221.07195	CTD - Wrigley casts
+ALOHA	150	Averaged July and March	Particulate carbon	umol/L	1.18	SCOPE Core (CTD upcast)
+ALOHA	DCM	Averaged July and March	Particulate carbon	umol/L	1.44	SCOPE Core (CTD upcast)
+ALOHA	surface	Averaged July and March	Particulate carbon	umol/L	2.97	SCOPE Core (CTD upcast)
+ALOHA July	150	same day, separate cast	Particulate carbon	umol/L	1.16	SCOPE Core (CTD upcast)
+ALOHA July	DCM	same day, separate cast, SIMILAR depth	Particulate carbon	umol/L	1.26	SCOPE Core (CTD upcast)
+ALOHA July	surface	same day, separate cast	Particulate carbon	umol/L	3.47	SCOPE Core (CTD upcast)
+ALOHA March	150	separate cast, next day	Particulate carbon	umol/L	1.21	SCOPE Core (CTD upcast)
+ALOHA March	DCM	separate cast, next day	Particulate carbon	umol/L	1.62	SCOPE Core (CTD upcast)
+ALOHA March	surface	separate cast, next day	Particulate carbon	umol/L	2.46	SCOPE Core (CTD upcast)
+ALOHA	150	Averaged July and March	Particulate nitrogen	umol/L	0.17	SCOPE Core (CTD upcast)
+ALOHA	DCM	Averaged July and March	Particulate nitrogen	umol/L	0.21	SCOPE Core (CTD upcast)
+ALOHA	surface	Averaged July and March	Particulate nitrogen	umol/L	0.41	SCOPE Core (CTD upcast)
+ALOHA July	150	same day, separate cast	Particulate nitrogen	umol/L	0.15	SCOPE Core (CTD upcast)
+ALOHA July	DCM	same day, separate cast, SIMILAR depth	Particulate nitrogen	umol/L	0.17	SCOPE Core (CTD upcast)
+ALOHA July	surface	same day, separate cast	Particulate nitrogen	umol/L	0.50	SCOPE Core (CTD upcast)
+ALOHA March	150	separate cast, next day	Particulate nitrogen	umol/L	0.19	SCOPE Core (CTD upcast)
+ALOHA March	DCM	separate cast, next day	Particulate nitrogen	umol/L	0.25	SCOPE Core (CTD upcast)
+ALOHA March	surface	separate cast, next day	Particulate nitrogen	umol/L	0.31	SCOPE Core (CTD upcast)
+ALOHA	150	Averaged July and March	Phaeopigment	μg/l	0.37	SCOPE Core (CTD upcast)
+ALOHA	DCM	Averaged July and March	Phaeopigment	μg/l	0.53	SCOPE Core (CTD upcast)
+ALOHA	surface	Averaged July and March	Phaeopigment	μg/l	0.07	SCOPE Core (CTD upcast)
+ALOHA July	150	same day, separate cast	Phaeopigment	μg/l	0.4076	SCOPE Core (CTD upcast)
+ALOHA July	DCM	same day, separate cast, SIMILAR depth	Phaeopigment	μg/l	0.5938	SCOPE Core (CTD upcast)
+ALOHA July	surface	same day, separate cast	Phaeopigment	μg/l	0.0930	SCOPE Core (CTD upcast)
+ALOHA March	150	separate cast and day (2 day)	Phaeopigment	μg/l	0.3325	SCOPE Core (CTD upcast)
+ALOHA March	DCM	separate cast and day (2 day)	Phaeopigment	μg/l	0.4643	SCOPE Core (CTD upcast)
+ALOHA March	surface	separate cast and day (2 day)	Phaeopigment	μg/l	0.0530	SCOPE Core (CTD upcast)
+ALOHA	150	Averaged July and March	Phosphate	μmol/l	0.14490014	SCOPE Core (CTD upcast)
+ALOHA	DCM	Averaged July and March	Phosphate	μmol/l	0.105134914	SCOPE Core (CTD upcast)
+ALOHA	surface	Averaged July and March	Phosphate	μmol/l	0.095370054	SCOPE Core (CTD upcast)
+ALOHA July	150	same day, separate cast	Phosphate	μmol/l	0.143	SCOPE Core (CTD upcast)
+ALOHA July	DCM	same day, separate cast, SIMILAR depth	Phosphate	μmol/l	0.096	SCOPE Core (CTD upcast)
+ALOHA July	surface	same day, separate cast	Phosphate	μmol/l	0.077	SCOPE Core (CTD upcast)
+ALOHA March	150	separate cast and day (2 day)	Phosphate	μmol/l	0.146800281	SCOPE Core (CTD upcast)
+ALOHA March	DCM	separate cast and day (2 day)	Phosphate	μmol/l	0.114269829	SCOPE Core (CTD upcast)
+ALOHA March	surface	separate cast and day (2 day)	Phosphate	μmol/l	0.113740108	SCOPE Core (CTD upcast)
+Catalina	surface		Phosphate	μmol/l	0.22	our lab
+Port of LA	surface		Phosphate	μmol/l	0.23	our lab
+SPOT	150		Phosphate	μmol/l	2.01	our lab
+SPOT	885		Phosphate	μmol/l	3.09	our lab
+SPOT	surface		Phosphate	μmol/l	0.34	our lab
+ALOHA	150	Averaged July and March	Salinity	PSS	35.2225	SCOPE Core (CTD upcast)
+ALOHA	1000	Averaged July and March	Salinity	PSS	34.46	SCOPE Core (CTD upcast)
+ALOHA	DCM	Averaged July and March	Salinity	PSS	35.226	SCOPE Core (CTD upcast)
+ALOHA	surface	Averaged July and March	Salinity	PSS	35.083	SCOPE Core (CTD upcast)
+ALOHA July	150		Salinity	PSS	35.301	SCOPE Core (CTD upcast)
+ALOHA July	1000		Salinity	PSS	34.44	SCOPE Core (CTD upcast)
+ALOHA July	DCM		Salinity	PSS	35.34	SCOPE Core (CTD upcast)
+ALOHA July	surface		Salinity	PSS	35.388	SCOPE Core (CTD upcast)
+ALOHA March	150		Salinity	PSS	35.144	SCOPE Core (CTD upcast)
+ALOHA March	1000		Salinity	PSS	34.48	SCOPE Core (CTD upcast)
+ALOHA March	DCM		Salinity	PSS	35.112	SCOPE Core (CTD upcast)
+ALOHA March	surface		Salinity	PSS	34.778	SCOPE Core (CTD upcast)
+Catalina	surface		Salinity	PSS	33.86	our lab
+Port of LA	surface		Salinity	PSS	33.13	our lab
+SPOT	150		Salinity	PSS	34.11	our lab
+SPOT	885		Salinity	PSS	34.39	our lab
+SPOT	surface		Salinity	PSS	33.32	our lab
+ALOHA	150	Averaged July and March	Silicate	μmol/l	1.549174144	SCOPE Core (CTD upcast)
+ALOHA	DCM	Averaged July and March	Silicate	μmol/l	1.308044662	SCOPE Core (CTD upcast)
+ALOHA	surface	Averaged July and March	Silicate	μmol/l	1.109536874	SCOPE Core (CTD upcast)
+ALOHA July	150	same day, separate cast	Silicate	μmol/l	1.623	SCOPE Core (CTD upcast)
+ALOHA July	DCM	same day, separate cast, SIMILAR depth	Silicate	μmol/l	1.39	SCOPE Core (CTD upcast)
+ALOHA July	surface	same day, separate cast	Silicate	μmol/l	0.979	SCOPE Core (CTD upcast)
+ALOHA March	150	separate cast and day (2 day)	Silicate	μmol/l	1.475348288	SCOPE Core (CTD upcast)
+ALOHA March	DCM	separate cast and day (2 day)	Silicate	μmol/l	1.226089324	SCOPE Core (CTD upcast)
+ALOHA March	surface	separate cast and day (2 day)	Silicate	μmol/l	1.240073747	SCOPE Core (CTD upcast)
+Catalina	surface		Silicate	μmol/l	1.89	our lab
+Port of LA	surface		Silicate	μmol/l	2.76	our lab
+SPOT	150		Silicate	μmol/l	31.71	our lab
+SPOT	885		Silicate	μmol/l	99.63	our lab
+SPOT	surface		Silicate	μmol/l	1.00	our lab
+ALOHA	150	Averaged July and March	Temperature	C	21.924	SCOPE Core (CTD upcast)
+ALOHA	1000	Averaged July and March	Temperature	C	4.026	SCOPE Core (CTD upcast)
+ALOHA	DCM	Averaged July and March	Temperature	C	23.0645	SCOPE Core (CTD upcast)
+ALOHA	surface	Averaged July and March	Temperature	C	25.8475	SCOPE Core (CTD upcast)
+ALOHA July	150		Temperature	C	21.531	SCOPE Core (CTD upcast)
+ALOHA July	1000		Temperature	C	3.939	SCOPE Core (CTD upcast)
+ALOHA July	DCM		Temperature	C	22.282	SCOPE Core (CTD upcast)
+ALOHA July	surface		Temperature	C	26.957	SCOPE Core (CTD upcast)
+ALOHA March	150		Temperature	C	22.317	SCOPE Core (CTD upcast)
+ALOHA March	1000		Temperature	C	4.113	SCOPE Core (CTD upcast)
+ALOHA March	DCM		Temperature	C	23.847	SCOPE Core (CTD upcast)
+ALOHA March	surface		Temperature	C	24.738	SCOPE Core (CTD upcast)
+Catalina	surface		Temperature	C	17.2	CTD - Wrigley casts
+Port of LA	surface		Temperature	C	16.34	CTD - Wrigley casts
+SPOT	150		Temperature	C	9.62	CTD - Wrigley casts
+SPOT	885		Temperature	C	5.22	CTD - Wrigley casts
+SPOT	surface		Temperature	C	17.1	CTD - Wrigley casts
