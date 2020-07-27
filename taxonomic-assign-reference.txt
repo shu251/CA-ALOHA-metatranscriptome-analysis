@@ -1,0 +1,1012 @@
+Taxonomy	Nextlevel	tax_compiled
+Alveolate;	Other	Other Alveolate
+Alveolate;Apicomplexa;	Apicomplexa	Other Alveolate
+Alveolate;Apicomplexa;Chromerida;	Apicomplexa	Other Alveolate
+Alveolate;Apicomplexa;Chromerida;Chromeraceae;	Apicomplexa	Other Alveolate
+Alveolate;Apicomplexa;Chromerida;Chromeraceae;Incertae sedis;	Apicomplexa	Other Alveolate
+Alveolate;Apicomplexa;Chromerida;Chromeraceae;Incertae sedis;Chromera;	Apicomplexa	Other Alveolate
+Alveolate;Apicomplexa;Chromerida;Chromeraceae;Incertae sedis;Chromera;Chromera velia;	Apicomplexa	Other Alveolate
+Alveolate;Apicomplexa;Chromerida;Vitrellaceae;	Apicomplexa	Other Alveolate
+Alveolate;Apicomplexa;Chromerida;Vitrellaceae;Incertae sedis;	Apicomplexa	Other Alveolate
+Alveolate;Apicomplexa;Chromerida;Vitrellaceae;Incertae sedis;Vitrella;	Apicomplexa	Other Alveolate
+Alveolate;Apicomplexa;Chromerida;Vitrellaceae;Incertae sedis;Vitrella;Vitrella brassicaformis;	Apicomplexa	Other Alveolate
+Alveolate;Apicomplexa;Conoidasida;	Apicomplexa	Other Alveolate
+Alveolate;Apicomplexa;Conoidasida;Incertae sedis;	Apicomplexa	Other Alveolate
+Alveolate;Apicomplexa;Conoidasida;Incertae sedis;Incertae sedis;	Apicomplexa	Other Alveolate
+Alveolate;Apicomplexa;Conoidasida;Incertae sedis;Incertae sedis;Lankesteria;	Apicomplexa	Other Alveolate
+Alveolate;Ciliate;	Ciliate	Ciliate
+Alveolate;Ciliate;Colpodea;	Ciliate	Ciliate
+Alveolate;Ciliate;Colpodea;Cyrtolophosidida;	Ciliate	Ciliate
+Alveolate;Ciliate;Colpodea;Cyrtolophosidida;Cyrtolophosidae;	Ciliate	Ciliate
+Alveolate;Ciliate;Colpodea;Cyrtolophosidida;Cyrtolophosidae;Aristerostoma;	Ciliate	Ciliate
+Alveolate;Ciliate;Colpodea;Cyrtolophosidida;Cyrtolophosidae;Aristerostoma;Aristerostoma sp.;	Ciliate	Ciliate
+Alveolate;Ciliate;Colpodea;Cyrtolophosidida;Platyophryidae;	Ciliate	Ciliate
+Alveolate;Ciliate;Colpodea;Cyrtolophosidida;Platyophryidae;Platyophyra;	Ciliate	Ciliate
+Alveolate;Ciliate;Colpodea;Cyrtolophosidida;Platyophryidae;Platyophyra;Platyophrya macrostoma;	Ciliate	Ciliate
+Alveolate;Ciliate;Heterotrichea;	Ciliate	Ciliate
+Alveolate;Ciliate;Heterotrichea;Heterotrichia;	Ciliate	Ciliate
+Alveolate;Ciliate;Heterotrichea;Heterotrichia;Blepharismidae;	Ciliate	Ciliate
+Alveolate;Ciliate;Heterotrichea;Heterotrichia;Blepharismidae;Blepharisma;	Ciliate	Ciliate
+Alveolate;Ciliate;Heterotrichea;Heterotrichia;Blepharismidae;Blepharisma;Blepharisma japonicum;	Ciliate	Ciliate
+Alveolate;Ciliate;Heterotrichea;Heterotrichia;Climacostomidae;	Ciliate	Ciliate
+Alveolate;Ciliate;Heterotrichea;Heterotrichia;Climacostomidae;Climacostomum;	Ciliate	Ciliate
+Alveolate;Ciliate;Heterotrichea;Heterotrichia;Climacostomidae;Climacostomum;Climacostomum virens;	Ciliate	Ciliate
+Alveolate;Ciliate;Heterotrichea;Heterotrichia;Climacostomidae;Fabrea;	Ciliate	Ciliate
+Alveolate;Ciliate;Heterotrichea;Heterotrichia;Condylostomatidae;	Ciliate	Ciliate
+Alveolate;Ciliate;Heterotrichea;Heterotrichia;Condylostomatidae;Condylostoma;	Ciliate	Ciliate
+Alveolate;Ciliate;Heterotrichea;Heterotrichia;Condylostomatidae;Condylostoma;Condylostoma magnum;	Ciliate	Ciliate
+Alveolate;Ciliate;Litostomatea;	Ciliate	Ciliate
+Alveolate;Ciliate;Litostomatea;Cyclotrichiida;	Ciliate	Ciliate
+Alveolate;Ciliate;Litostomatea;Cyclotrichiida;Mesodiniidae;	Ciliate	Ciliate
+Alveolate;Ciliate;Litostomatea;Cyclotrichiida;Mesodiniidae;Mesodinium;	Ciliate	Ciliate
+Alveolate;Ciliate;Litostomatea;Cyclotrichiida;Mesodiniidae;Mesodinium;Mesodinium pulex;	Ciliate	Ciliate
+Alveolate;Ciliate;Litostomatea;Cyclotrichiida;Mesodiniidae;Myrionecta;	Ciliate	Ciliate
+Alveolate;Ciliate;Litostomatea;Cyclotrichiida;Mesodiniidae;Myrionecta;Myrionecta rubra;	Ciliate	Ciliate
+Alveolate;Ciliate;Litostomatea;Pleurostomatida;	Ciliate	Ciliate
+Alveolate;Ciliate;Litostomatea;Pleurostomatida;Litonotidae;	Ciliate	Ciliate
+Alveolate;Ciliate;Litostomatea;Pleurostomatida;Litonotidae;Litonotus;	Ciliate	Ciliate
+Alveolate;Ciliate;Litostomatea;Pleurostomatida;Litonotidae;Litonotus;Litonotus pictus;	Ciliate	Ciliate
+Alveolate;Ciliate;Oligohymenophorea;	Ciliate	Ciliate
+Alveolate;Ciliate;Oligohymenophorea;Peniculida;	Ciliate	Ciliate
+Alveolate;Ciliate;Oligohymenophorea;Peniculida;Parameciidae;	Ciliate	Ciliate
+Alveolate;Ciliate;Oligohymenophorea;Peniculida;Parameciidae;Paramecium;	Ciliate	Ciliate
+Alveolate;Ciliate;Oligohymenophorea;Peniculida;Parameciidae;Paramecium;Paramecium tetraurelia;	Ciliate	Ciliate
+Alveolate;Ciliate;Oligohymenophorea;Philasterida;	Ciliate	Ciliate
+Alveolate;Ciliate;Oligohymenophorea;Philasterida;Orchitophryidae;	Ciliate	Ciliate
+Alveolate;Ciliate;Oligohymenophorea;Philasterida;Orchitophryidae;Anophryoides;	Ciliate	Ciliate
+Alveolate;Ciliate;Oligohymenophorea;Philasterida;Orchitophryidae;Anophryoides;Anophryoides haemophila;	Ciliate	Ciliate
+Alveolate;Ciliate;Oligohymenophorea;Philasterida;Uronematidae;	Ciliate	Ciliate
+Alveolate;Ciliate;Oligohymenophorea;Philasterida;Uronematidae;Uronema;	Ciliate	Ciliate
+Alveolate;Ciliate;Oligohymenophorea;Tetrahymenida;	Ciliate	Ciliate
+Alveolate;Ciliate;Oligohymenophorea;Tetrahymenida;Tetrahymenidae;	Ciliate	Ciliate
+Alveolate;Ciliate;Oligohymenophorea;Tetrahymenida;Tetrahymenidae;Tetrahymena;	Ciliate	Ciliate
+Alveolate;Ciliate;Oligohymenophorea;Tetrahymenida;Tetrahymenidae;Tetrahymena;Tetrahymena thermophila;	Ciliate	Ciliate
+Alveolate;Ciliate;Prostomatea;	Ciliate	Ciliate
+Alveolate;Ciliate;Prostomatea;Prorodontida;	Ciliate	Ciliate
+Alveolate;Ciliate;Prostomatea;Prorodontida;Colepidae;	Ciliate	Ciliate
+Alveolate;Ciliate;Prostomatea;Prorodontida;Colepidae;Tiarina;	Ciliate	Ciliate
+Alveolate;Ciliate;Prostomatea;Prorodontida;Colepidae;Tiarina;Tiarina fusus;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Choreotrichida;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Choreotrichida;Strombidiidae;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Choreotrichida;Strombidiidae;Strombidium;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Choreotrichida;Strombidiidae;Strombidium;Strombidium inclinatum;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Choreotrichida;Strombidiidae;Strombidium;Strombidium rassoulzadegani;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Choreotrichida;Strombidinopsidae;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Choreotrichida;Strombidinopsidae;Strombidinopsis;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Choreotrichida;Strombidinopsidae;Strombidinopsis;Strombidinopsis acuminatum;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Choreotrichida;Strombidinopsidae;Strombidinopsis;Strombidinopsis sp;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Euplotida;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Euplotida;Euplotidae;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Euplotida;Euplotidae;Euplotes;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Euplotida;Euplotidae;Euplotes;Euplotes crassus;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Euplotida;Euplotidae;Euplotes;Euplotes focardii;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Euplotida;Euplotidae;Euplotes;Euplotes harpa;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Protocruziida;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Protocruziida;Protocruziidae;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Protocruziida;Protocruziidae;Protocruzia;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Protocruziida;Protocruziidae;Protocruzia;Protocruzia adherens;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Sporadotrichida;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Sporadotrichida;Oxytrichidae;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Sporadotrichida;Oxytrichidae;Oxytricha;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Sporadotrichida;Oxytrichidae;Oxytricha;Oxytricha trifallax;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Sporadotrichida;Oxytrichidae;Stylonychia;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Sporadotrichida;Oxytrichidae;Stylonychia;Stylonychia lemnae;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Tintinnida;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Tintinnida;Ptychocylididae;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Tintinnida;Ptychocylididae;Favella;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Tintinnida;Ptychocylididae;Favella;Favella ehrenbergii;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Tintinnida;Ptychocylididae;Favella;Favella taraikaensis;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Urostylida;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Urostylida;Pseudokeronopsidae;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Urostylida;Pseudokeronopsidae;Pseudokeronopsis;	Ciliate	Ciliate
+Alveolate;Ciliate;Spirotrichea;Urostylida;Pseudokeronopsidae;Pseudokeronopsis;Pseudokeronopsis sp.;	Ciliate	Ciliate
+Alveolate;Dinoflagellate;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Dinophysiales;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Dinophysiales;Dinophysiaceae;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Dinophysiales;Dinophysiaceae;Dinophysis;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Dinophysiales;Dinophysiaceae;Dinophysis;Dinophysis acuminata;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Ceratiaceae;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Ceratiaceae;Ceratium;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Ceratiaceae;Ceratium;Ceratium fusus;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Goniodomataceae;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Goniodomataceae;Alexandrium;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Goniodomataceae;Alexandrium;Alexandrium andersonii;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Goniodomataceae;Alexandrium;Alexandrium catenella;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Goniodomataceae;Alexandrium;Alexandrium fundyense;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Goniodomataceae;Alexandrium;Alexandrium margalefi;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Goniodomataceae;Alexandrium;Alexandrium minutum;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Goniodomataceae;Alexandrium;Alexandrium monilatum;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Goniodomataceae;Alexandrium;Alexandrium tamarense;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Goniodomataceae;Gambierdiscus;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Goniodomataceae;Gambierdiscus;Gambierdiscus australes;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Goniodomataceae;Pyrodinium;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Goniodomataceae;Pyrodinium;Pyrodinium bahamense;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Gonyaulacaceae;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Gonyaulacaceae;Gonyaulax;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Gonyaulacaceae;Gonyaulax;Gonyaulax spinifera;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Gonyaulacaceae;Lingulodinium;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Gonyaulacaceae;Lingulodinium;Lingulodinium polyedra;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Protoceratiaceae;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Protoceratiaceae;Protoceratium;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Protoceratiaceae;Protoceratium;Protoceratium reticulatum;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gymnodiniales;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gymnodiniales;Gymnodiniaceae;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gymnodiniales;Gymnodiniaceae;Akashiwo;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gymnodiniales;Gymnodiniaceae;Amphidinium;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gymnodiniales;Gymnodiniaceae;Amphidinium;Amphidinium carterae;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gymnodiniales;Gymnodiniaceae;Amphidinium;Amphidinium massartii;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gymnodiniales;Gymnodiniaceae;Gymnodinium;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gymnodiniales;Gymnodiniaceae;Gymnodinium;Gymnodinium catenatum;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gymnodiniales;Gymnodiniaceae;Gyrodinium;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gymnodiniales;Gymnodiniaceae;Togula;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gymnodiniales;Gymnodiniaceae;Togula;Togula jolla;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gymnodiniales;Kareniaceae;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gymnodiniales;Kareniaceae;Karenia;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gymnodiniales;Kareniaceae;Karenia;Karenia brevis;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gymnodiniales;Kareniaceae;Karlodinium;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gymnodiniales;Kareniaceae;Karlodinium;Karlodinium micrum;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Noctilucales;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Noctilucales;Noctilucaceae;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Noctilucales;Noctilucaceae;Noctiluca;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Noctilucales;Noctilucaceae;Noctiluca;Noctiluca scintillans;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Amphidomataceans;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Amphidomataceans;Azadinium;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Amphidomataceans;Azadinium;Azadinium spinosum;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Crypthecodiniaceae;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Crypthecodiniaceae;Crypthecodinium;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Crypthecodiniaceae;Crypthecodinium;Crypthecodinium cohnii;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Heterocapsaceae;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Heterocapsaceae;Heterocapsa;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Heterocapsaceae;Heterocapsa;Heterocapsa arctica;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Heterocapsaceae;Heterocapsa;Heterocapsa rotundata;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Heterocapsaceae;Heterocapsa;Heterocapsa triquestra;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Incertae sedis;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Incertae sedis;Brandtodinium;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Incertae sedis;Brandtodinium;Brandtodinium nutriculum;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Incertae sedis;Glenodinium;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Incertae sedis;Glenodinium;Glenodinium foliaceum;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Kryptoperidiniaceae;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Kryptoperidiniaceae;Durinskia;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Kryptoperidiniaceae;Durinskia;Durinskia baltica;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Kryptoperidiniaceae;Kryptoperidinium;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Kryptoperidiniaceae;Kryptoperidinium;Kryptoperidinium foliaceum;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Peridiniaceae;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Peridiniaceae;Peridinium;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Peridiniaceae;Peridinium;Peridinium aciculiferum;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Podolampadaceae;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Podolampadaceae;Lessardia;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Podolampadaceae;Lessardia;Lessardia elongata;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Thoracosphaeraceae;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Thoracosphaeraceae;Scrippsiella;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Thoracosphaeraceae;Scrippsiella;Scrippsiella hangoei-like;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Thoracosphaeraceae;Scrippsiella;Scrippsiella Hangoei;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Thoracosphaeraceae;Scrippsiella;Scrippsiella trochoidea;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Thoracosphaeraceae;Thoracosphaera;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Prorocentrales;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Prorocentrales;Prorocentrales;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Prorocentrales;Prorocentrales;Prorocentrum;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Prorocentrales;Prorocentrales;Prorocentrum;Prorocentrum micans;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Prorocentrales;Prorocentrales;Prorocentrum;Prorocentrum minimum;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Suessiales;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Suessiales;Suessiaceae;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Suessiales;Suessiaceae;Pelagodinium;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Suessiales;Suessiaceae;Pelagodinium;Pelagodinium;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Suessiales;Suessiaceae;Polarella;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Suessiales;Suessiaceae;Polarella;Polarella glacialis;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Suessiales;Suessiaceae;Symbiodinium;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Suessiales;Suessiaceae;Symbiodinium;Symbiodinium kawagutii;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Suessiales;Suessiaceae;Symbiodinium;Symbiodinium sp.;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Oxyrrhids;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Oxyrrhids;Oxyrrhinales;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Oxyrrhids;Oxyrrhinales;Incertae sedis;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Oxyrrhids;Oxyrrhinales;Incertae sedis;Oxyrrhis;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Oxyrrhids;Oxyrrhinales;Incertae sedis;Oxyrrhis;Oxyrrhis marina;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Perkinsids;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Perkinsids;Incertae sedis;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Perkinsids;Incertae sedis;Incertae sedis;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Perkinsids;Incertae sedis;Incertae sedis;Perkinsus;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Perkinsids;Incertae sedis;Incertae sedis;Perkinsus;Perkinsus marinus;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Syndinians;	Syndiniales	Syndiniales
+Alveolate;Dinoflagellate;Syndinians;Syndiniaceae;	Syndiniales	Syndiniales
+Alveolate;Dinoflagellate;Syndinians;Syndiniaceae;Amoebophryaceae;	Syndiniales	Syndiniales
+Alveolate;Dinoflagellate;Syndinians;Syndiniaceae;Amoebophryaceae;Amoebophrya;	Syndiniales	Syndiniales
+Alveolate;Dinoflagellate;Syndinians;Syndiniaceae;Amoebophryaceae;Amoebophrya;Amoebophrya sp.;	Syndiniales	Syndiniales
+Amoebozoa;	Other	Other
+Amoebozoa;Discosea;	Discosea	Other
+Amoebozoa;Discosea;Flabellinia;	Discosea	Other
+Amoebozoa;Discosea;Flabellinia;Incertae sedis;	Discosea	Other
+Amoebozoa;Discosea;Flabellinia;Incertae sedis;Incertae sedis;	Discosea	Other
+Amoebozoa;Discosea;Flabellinia;Incertae sedis;Incertae sedis;Neoparamoeba;	Discosea	Other
+Amoebozoa;Discosea;Flabellinia;Incertae sedis;Incertae sedis;Neoparamoeba;Neoparamoeba aestuarina;	Discosea	Other
+Amoebozoa;Discosea;Flabellinia;Incertae sedis;Incertae sedis;Paramoeba;	Discosea	Other
+Amoebozoa;Discosea;Flabellinia;Incertae sedis;Incertae sedis;Paramoeba;Paramoeba atlantica;	Discosea	Other
+Amoebozoa;Discosea;Flabellinia;Incertae sedis;Incertae sedis;Pessonella;	Discosea	Other
+Amoebozoa;Discosea;Flabellinia;Incertae sedis;Incertae sedis;Trichosphaerium;	Discosea	Other
+Amoebozoa;Discosea;Flabellinia;Incertae sedis;Incertae sedis;Trichosphaerium;Trichosphaerium sp;	Discosea	Other
+Amoebozoa;Discosea;Flabellinia;Incertae sedis;Incertae sedis;Vannella;	Discosea	Other
+Amoebozoa;Discosea;Flabellinia;Incertae sedis;Incertae sedis;Vannella;Vannella sp.;	Discosea	Other
+Amoebozoa;Discosea;Flabellinia;Incertae sedis;Incertae sedis;Vexillifera;	Discosea	Other
+Amoebozoa;Discosea;Incertae sedis;	Discosea	Other
+Amoebozoa;Discosea;Incertae sedis;Incertae sedis;	Discosea	Other
+Amoebozoa;Discosea;Incertae sedis;Incertae sedis;Incertae sedis;	Discosea	Other
+Amoebozoa;Discosea;Incertae sedis;Incertae sedis;Incertae sedis;Stereomyxa;	Discosea	Other
+Amoebozoa;Discosea;Longamoebia;	Discosea	Other
+Amoebozoa;Discosea;Longamoebia;Incertae sedis;	Discosea	Other
+Amoebozoa;Discosea;Longamoebia;Incertae sedis;Incertae sedis;	Discosea	Other
+Amoebozoa;Discosea;Longamoebia;Incertae sedis;Incertae sedis;Acanthamoebidae;	Discosea	Other
+Amoebozoa;Discosea;Longamoebia;Incertae sedis;Incertae sedis;Acanthamoebidae;Acanthamoeba castellanii;	Discosea	Other
+Amoebozoa;Discosea;Longamoebia;Incertae sedis;Incertae sedis;Mayorella;	Discosea	Other
+Amoebozoa;Discosea;Stygamoebida;	Discosea	Other
+Amoebozoa;Discosea;Stygamoebida;Incertae sedis;	Discosea	Other
+Amoebozoa;Discosea;Stygamoebida;Incertae sedis;Incertae sedis;	Discosea	Other
+Amoebozoa;Discosea;Stygamoebida;Incertae sedis;Incertae sedis;Stygamoeba;	Discosea	Other
+Amoebozoa;Discosea;Stygamoebida;Incertae sedis;Incertae sedis;Stygamoeba;Stygamoeba regulata;	Discosea	Other
+Amoebozoa;Tubulinea;Arcellinida;	Tubulinea	Other
+Amoebozoa;Tubulinea;Arcellinida;Incertae sedis;	Tubulinea	Other
+Amoebozoa;Tubulinea;Arcellinida;Incertae sedis;Incertae sedis;	Tubulinea	Other
+Amoebozoa;Tubulinea;Arcellinida;Incertae sedis;Incertae sedis;Sexangularia;	Tubulinea	Other
+Amoebozoa;Variosea;Gracilipodida;	Variosea	Other
+Amoebozoa;Variosea;Gracilipodida;Incertae sedis;	Variosea	Other
+Amoebozoa;Variosea;Gracilipodida;Incertae sedis;Incertae sedis;	Variosea	Other
+Amoebozoa;Variosea;Gracilipodida;Incertae sedis;Incertae sedis;Filamoeba;	Variosea	Other
+Amoebozoa;Variosea;Gracilipodida;Incertae sedis;Incertae sedis;Filamoeba;Filamoeba nolandi;	Variosea	Other
+Archaeplastida;	Other	Other Archaeplastida
+Archaeplastida;Chlorophyta;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Chlorophyceae;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Chlamydomonadaceae;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Chlamydomonadaceae;Chlamydomonas;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Chlamydomonadaceae;Chlamydomonas;Chlamydomonas cf sp;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Chlamydomonadaceae;Chlamydomonas;Chlamydomonas euryale;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Chlamydomonadaceae;Chlamydomonas;Chlamydomonas leiostraca;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Chlamydomonadaceae;Chlamydomonas;Chlamydomonas reinhardtii;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Dunaliellaceae;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Dunaliellaceae;Dunaliella;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Dunaliellaceae;Dunaliella;Dunaliella tertiolecta;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Dunaliellaceae;Polytomella;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Dunaliellaceae;Polytomella;Polytomella parva;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Chlorophyceae;Tetrasporales;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Chlorophyceae;Tetrasporales;Incertae sedis;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Chlorophyceae;Tetrasporales;Incertae sedis;Cyanoptyche;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Chlorodendrales;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Chlorodendrales;Chlorodendrophyceae;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Chlorodendrales;Chlorodendrophyceae;Chlorodendraceae;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Chlorodendrales;Chlorodendrophyceae;Chlorodendraceae;Tetraselmis astigmatica;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Chlorodendrales;Chlorodendrophyceae;Chlorodendraceae;Tetraselmis chuii;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Chlorodendrales;Chlorodendrophyceae;Chlorodendraceae;Tetraselmis sp.;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Chlorodendrales;Chlorodendrophyceae;Chlorodendraceae;Tetraselmis striata;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Dolichomastigales;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Dolichomastigales;Dolichomastigaceae;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Dolichomastigales;Dolichomastigaceae;Crustomastix;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Dolichomastigales;Dolichomastigaceae;Crustomastix;Crustomastix stigmata;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Dolichomastigales;Dolichomastigaceae;Dolichomastix;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Dolichomastigales;Dolichomastigaceae;Dolichomastix;Dolichomastix tenuilepis;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Mamiellales;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Mamiellales;Bathycoccaceae;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Mamiellales;Bathycoccaceae;Bathycoccus;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Mamiellales;Bathycoccaceae;Bathycoccus;Bathycoccus prasinos;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Mamiellales;Bathycoccaceae;Ostreococcus;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Mamiellales;Bathycoccaceae;Ostreococcus;Ostreococcus lucimarinus;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Mamiellales;Bathycoccaceae;Ostreococcus;Ostreococcus mediterraneus;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Mamiellales;Bathycoccaceae;Ostreococcus;Ostreococcus prasinos;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Mamiellales;Mamiellaceae;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Mamiellales;Mamiellaceae;Mantoniella;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Mamiellales;Mamiellaceae;Mantoniella;Mantoniella antarctica;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Mamiellales;Mamiellaceae;Mantoniella;Mantoniella sp;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Mamiellales;Mamiellaceae;Micromonas;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Mamiellales;Mamiellaceae;Micromonas;Micromonas pusilla;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Mamiellales;Mamiellaceae;Micromonas;Micromonas sp;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Mamiellales;Mamiellaceae;Micromonas;Micromonas sp.;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Nephroselmidales;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Nephroselmidales;Nephroselmidophyceae;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Nephroselmidales;Nephroselmidophyceae;Nephroselmis;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Nephroselmidales;Nephroselmidophyceae;Nephroselmis;Nephroselmis pyriformis;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Picocystales;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Picocystales;Incertae sedis;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Picocystales;Incertae sedis;Picocystis;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Picocystales;Incertae sedis;Picocystis;Picocystis salinarum;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Prasinococcales;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Prasinococcales;Prasinococcaceae;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Prasinococcales;Prasinococcaceae;Prasinococcus;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Prasinococcales;Prasinococcaceae;Prasinococcus;Prasinococcus capsulatus;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Prasinococcales;Prasinococcaceae;Prasinoderma;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Prasinococcales;Prasinococcaceae;Prasinoderma;Prasinoderma coloniale;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Prasinococcales;Prasinococcaceae;Prasinoderma;Prasinoderma singularis;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Pycnococcaceae;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Pycnococcaceae;Incertae sedis;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Pycnococcaceae;Incertae sedis;Pycnococcus;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Pycnococcaceae;Incertae sedis;Pycnococcus;Pycnococcus provasolii;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Pycnococcaceae;Incertae sedis;Pycnococcus;Pycnococcus sp;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Pyramimonadales;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Pyramimonadales;Pterospermataceae;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Pyramimonadales;Pterospermataceae;Pterosperma;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Pyramimonadales;Pterospermataceae;Pterosperma;Pterosperma;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Pyramimonadales;Pyramimonadaceae;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Pyramimonadales;Pyramimonadaceae;Pyramimonas;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Pyramimonadales;Pyramimonadaceae;Pyramimonas;Pyramimonas amylifera;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Pyramimonadales;Pyramimonadaceae;Pyramimonas;Pyramimonas obovata;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Pyramimonadales;Pyramimonadaceae;Pyramimonas;Pyramimonas parkeae;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Prasinophyte;Pyramimonadales;Pyramimonadaceae;Pyramimonas;Pyramimonas sp.;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Trebouxiophyceae;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Trebouxiophyceae;Incertae sedis;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Trebouxiophyceae;Incertae sedis;Incertae sedis;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Trebouxiophyceae;Incertae sedis;Incertae sedis;Picochlorum;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Trebouxiophyceae;Incertae sedis;Incertae sedis;Picochlorum;Picochlorum sp.;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Trebouxiophyceae;Prasiola;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Trebouxiophyceae;Prasiola;Prasiolaceae;	Chlorophyta	Chlorophyta
+Archaeplastida;Chlorophyta;Trebouxiophyceae;Prasiola;Prasiolaceae;Stichococcus;	Chlorophyta	Chlorophyta
+Archaeplastida;Glaucophyta;Glaucophyceae;	Glaucophyta	Other Archaeplastida
+Archaeplastida;Glaucophyta;Glaucophyceae;Glaucocystales;	Glaucophyta	Other Archaeplastida
+Archaeplastida;Glaucophyta;Glaucophyceae;Glaucocystales;Glaucocystaceae;	Glaucophyta	Other Archaeplastida
+Archaeplastida;Glaucophyta;Glaucophyceae;Glaucocystales;Glaucocystaceae;Gloeochaete;	Glaucophyta	Other Archaeplastida
+Archaeplastida;Glaucophyta;Glaucophyceae;Glaucocystales;Glaucocystaceae;Gloeochaete;Gloeochaete wittrockiana;	Glaucophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Compsopogonophyceae;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Compsopogonophyceae;Compsopogonales;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Compsopogonophyceae;Compsopogonales;Compsopogonaceae;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Compsopogonophyceae;Compsopogonales;Compsopogonaceae;Compsopogon;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Compsopogonophyceae;Erythropeltidales;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Compsopogonophyceae;Erythropeltidales;Incertae sedis;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Compsopogonophyceae;Erythropeltidales;Incertae sedis;Madagascaria;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Compsopogonophyceae;Erythropeltidales;Incertae sedis;Madagascaria;Madagascaria erythrocladiodes;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Cyanidiophyceae;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Cyanidiophyceae;Cyanidiales;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Cyanidiophyceae;Cyanidiales;Cyanidiaceae;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Cyanidiophyceae;Cyanidiales;Cyanidiaceae;Cyanidioschyzon;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Cyanidiophyceae;Cyanidiales;Cyanidiaceae;Cyanidioschyzon;Cyanidioschyzon merolae;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Cyanidiophyceae;Cyanidiales;Galdieriaceae;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Cyanidiophyceae;Cyanidiales;Galdieriaceae;Galdieria;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Florideophyceae;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Florideophyceae;Gigartinales;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Florideophyceae;Gigartinales;Gigartinaceae;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Florideophyceae;Gigartinales;Gigartinaceae;Chondrus;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Florideophyceae;Gigartinales;Gigartinaceae;Chondrus;Chondrus crispus;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Porphyridiophyceae;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Porphyridiophyceae;Porphyridiales;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Porphyridiophyceae;Porphyridiales;Porphyridiaceae;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Porphyridiophyceae;Porphyridiales;Porphyridiaceae;Erythrolobus;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Porphyridiophyceae;Porphyridiales;Porphyridiaceae;Erythrolobus;Erythrolobus madagascarensis;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Porphyridiophyceae;Porphyridiales;Porphyridiaceae;Porphyridium;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Porphyridiophyceae;Porphyridiales;Porphyridiaceae;Porphyridium;Porphyridium aerugineum;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Porphyridiophyceae;Porphyridiales;Porphyridiaceae;Timspurckia;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Rhodellophyceae;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Rhodellophyceae;Rhodellales;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Rhodellophyceae;Rhodellales;Rhodellaceae;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Rhodellophyceae;Rhodellales;Rhodellaceae;Rhodella;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Rhodellophyceae;Rhodellales;Rhodellaceae;Rhodella;Rhodella maculata;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Stylonematophyceae;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Stylonematophyceae;Stylonematales;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Stylonematophyceae;Stylonematales;Stylonemataceae;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Stylonematophyceae;Stylonematales;Stylonemataceae;Rhodosorus;	Rhodophyta	Other Archaeplastida
+Archaeplastida;Rhodophyta;Stylonematophyceae;Stylonematales;Stylonemataceae;Rhodosorus;Rhodosorus marinus;	Rhodophyta	Other Archaeplastida
+Cryptista;Cryptophyta;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Chroomonas;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Chroomonas;Chroomonas mesostigmatica cf;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Cryptomonas;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Cryptomonas;Cryptomonas curvata;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Cryptomonas;Cryptomonas paramecium;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Geminigera;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Geminigera;Geminigera cryophila;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Geminigera;Geminigera sp.;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Guillardia;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Guillardia;Guillardia theta;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Hanusia;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Hanusia;Hanusia phi;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Hemiselmis;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Hemiselmis;Hemiselmis andersenii;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Hemiselmis;Hemiselmis rufescens;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Hemiselmis;Hemiselmis tepida;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Hemiselmis;Hemiselmis viresens;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Proteomonas;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Proteomonas;Proteomonas sulcata;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Rhodomonas;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Rhodomonas;Rhodomonas abbreviata;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Rhodomonas;Rhodomonas lens;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Rhodomonas;Rhodomonas salina;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Cryptomonadales;Incertae sedis;Rhodomonas;Rhodomonas sp.;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Goniomonas;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Goniomonas;Incertae sedis;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Goniomonas;Incertae sedis;Goniomonas;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Goniomonas;Incertae sedis;Goniomonas;Goniomonas Pacifica;	Cryptophyta	Other
+Cryptista;Cryptophyta;Cryptophyceae;Goniomonas;Incertae sedis;Goniomonas;Goniomonas sp;	Cryptophyta	Other
+Cryptista;Cryptophyta;Palpitea;	Cryptophyta	Other
+Cryptista;Cryptophyta;Palpitea;Incertae sedis;	Cryptophyta	Other
+Cryptista;Cryptophyta;Palpitea;Incertae sedis;Incertae sedis;	Cryptophyta	Other
+Cryptista;Cryptophyta;Palpitea;Incertae sedis;Incertae sedis;Palpitomonas;	Cryptophyta	Other
+Cryptista;Cryptophyta;Palpitea;Incertae sedis;Incertae sedis;Palpitomonas;Palpitomonas bilix;	Cryptophyta	Other
+Discoba;	Other	Other
+Discoba;Euglenida;Euglenophyceae;	Euglenida	Other
+Discoba;Euglenida;Euglenophyceae;Eutreptiales;	Euglenida	Other
+Discoba;Euglenida;Euglenophyceae;Eutreptiales;Incertae sedis;	Euglenida	Other
+Discoba;Euglenida;Euglenophyceae;Eutreptiales;Incertae sedis;Eutreptiella;	Euglenida	Other
+Discoba;Euglenida;Euglenophyceae;Eutreptiales;Incertae sedis;Eutreptiella;Eutreptiella gymnastica-like;	Euglenida	Other
+Discoba;Euglenida;Euglenophyceae;Eutreptiales;Incertae sedis;Eutreptiella;Eutreptiella gymnastica;	Euglenida	Other
+Discoba;Heterolobosea;Tetramitia;	Heterolobosea	Other
+Discoba;Heterolobosea;Tetramitia;Percolatea;	Heterolobosea	Other
+Discoba;Heterolobosea;Tetramitia;Percolatea;Percolomonadidae;	Heterolobosea	Other
+Discoba;Heterolobosea;Tetramitia;Percolatea;Percolomonadidae;Percolomonas;	Heterolobosea	Other
+Discoba;Heterolobosea;Tetramitia;Percolatea;Percolomonadidae;Percolomonas;Percolomonas cosmopolitus;	Heterolobosea	Other
+Discoba;Heterolobosea;Tetramitia;Vahlkampfidae;	Heterolobosea	Other
+Discoba;Heterolobosea;Tetramitia;Vahlkampfidae;Incertae sedis;	Heterolobosea	Other
+Discoba;Heterolobosea;Tetramitia;Vahlkampfidae;Incertae sedis;Naegleria;	Heterolobosea	Other
+Discoba;Heterolobosea;Tetramitia;Vahlkampfidae;Incertae sedis;Naegleria;Naegleria gruberi;	Heterolobosea	Other
+Discoba;Kinetoplastea;Metakinetoplastina;	Kinetoplastea	Other
+Discoba;Kinetoplastea;Metakinetoplastina;Neobodonida;	Kinetoplastea	Other
+Discoba;Kinetoplastea;Metakinetoplastina;Neobodonida;Incertae sedis;	Kinetoplastea	Other
+Discoba;Kinetoplastea;Metakinetoplastina;Neobodonida;Incertae sedis;Neobodo;	Kinetoplastea	Other
+Discoba;Kinetoplastea;Metakinetoplastina;Neobodonida;Incertae sedis;Neobodo;Neobodo designis;	Kinetoplastea	Other
+Haptophytes;Haptophyta;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Coccolithales;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Coccolithales;Calcidiscaceae;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Coccolithales;Calcidiscaceae;Calcidiscus;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Coccolithales;Calcidiscaceae;Calcidiscus;Calcidiscus leptoporus;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Coccolithales;Coccolithaceae;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Coccolithales;Coccolithaceae;Coccolithus;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Coccolithales;Coccolithaceae;Coccolithus;Coccolithus pelagicus ssp braarudi;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Isochrysidales;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Isochrysidales;Isochrysidaceae;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Isochrysidales;Isochrysidaceae;Isochrysis;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Isochrysidales;Isochrysidaceae;Isochrysis;Isochrysis galbana;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Isochrysidales;Isochrysidaceae;Isochrysis;Isochrysis sp;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Isochrysidales;Isochrysidaceae;Isochrysis;Isochrysis sp.;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Isochrysidales;Isochrysidaceae;Pleurochrysis;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Isochrysidales;Isochrysidaceae;Pleurochrysis;Pleurochrysis carterae;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Isochrysidales;Noelhaerhabdaceae;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Isochrysidales;Noelhaerhabdaceae;Emiliania;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Isochrysidales;Noelhaerhabdaceae;Emiliania;Emiliania huxleyi;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Isochrysidales;Noelhaerhabdaceae;Gephyrocapsa;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Isochrysidales;Noelhaerhabdaceae;Gephyrocapsa;Gephyrocapsa oceanica;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Phaeocystales;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Phaeocystales;Phaeocystaceae;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Phaeocystales;Phaeocystaceae;Phaeocystis;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Phaeocystales;Phaeocystaceae;Phaeocystis;Phaeocystis antarctica;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Phaeocystales;Phaeocystaceae;Phaeocystis;Phaeocystis cordata;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Phaeocystales;Phaeocystaceae;Phaeocystis;Phaeocystis Sp;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Prymnesiales;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Prymnesiales;Chrysochromulinaceae;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Prymnesiales;Chrysochromulinaceae;Chrysochromulina;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Prymnesiales;Chrysochromulinaceae;Chrysochromulina;Chrysochromulina brevifilum;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Prymnesiales;Chrysochromulinaceae;Chrysochromulina;Chrysochromulina ericina;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Prymnesiales;Chrysochromulinaceae;Chrysochromulina;Chrysochromulina polylepis;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Prymnesiales;Chrysochromulinaceae;Chrysochromulina;Chrysochromulina rotalis;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Prymnesiales;Prymnesiaceae;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Prymnesiales;Prymnesiaceae;Chrysoculter;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Prymnesiales;Prymnesiaceae;Chrysoculter;Chrysoculter rhomboideus;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Prymnesiales;Prymnesiaceae;Imantonia;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Prymnesiales;Prymnesiaceae;Imantonia;Imantonia sp.;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Prymnesiales;Prymnesiaceae;Prymnesium;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Prymnesiales;Prymnesiaceae;Prymnesium;Prymnesium parvum;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Zygodiscales;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Zygodiscales;Pontosphaeraceae;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Zygodiscales;Pontosphaeraceae;Scyphosphaera;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Coccolithophyceae;Zygodiscales;Pontosphaeraceae;Scyphosphaera;Scyphosphaera apsteinii;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Pavlovophyceae;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Pavlovophyceae;Pavlovales;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Pavlovophyceae;Pavlovales;Pavlovaceae;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Pavlovophyceae;Pavlovales;Pavlovaceae;Exanthemachrysis;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Pavlovophyceae;Pavlovales;Pavlovaceae;Exanthemachrysis;Exanthemachrysis gayraliae;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Pavlovophyceae;Pavlovales;Pavlovaceae;Pavlova;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Pavlovophyceae;Pavlovales;Pavlovaceae;Pavlova;Pavlova gyrans;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Pavlovophyceae;Pavlovales;Pavlovaceae;Pavlova;Pavlova lutheri;	Haptophyta	Haptophytes
+Haptophytes;Haptophyta;Pavlovophyceae;Pavlovales;Pavlovaceae;Pavlova;Pavlova sp.;	Haptophyta	Haptophytes
+Opisthokont;	Other	Opisthokont
+Opisthokont;Choanoflagellatea;	Choanoflagellatea	Opisthokont
+Opisthokont;Choanoflagellatea;Acanthoecida;	Choanoflagellatea	Opisthokont
+Opisthokont;Choanoflagellatea;Acanthoecida;Acanthoecidae;	Choanoflagellatea	Opisthokont
+Opisthokont;Choanoflagellatea;Acanthoecida;Acanthoecidae;Incertae sedis;	Choanoflagellatea	Opisthokont
+Opisthokont;Choanoflagellatea;Acanthoecida;Acanthoecidae;Incertae sedis;Acanthoeca-like;	Choanoflagellatea	Opisthokont
+Opisthokont;Choanoflagellatea;Acanthoecida;Acanthoecidae;Incertae sedis;Acanthoeca-like;Acanthoeca-like sp.;	Choanoflagellatea	Opisthokont
+Opisthokont;Choanoflagellatea;Craspedida;	Choanoflagellatea	Opisthokont
+Opisthokont;Choanoflagellatea;Craspedida;Salpingoecidae;	Choanoflagellatea	Opisthokont
+Opisthokont;Choanoflagellatea;Craspedida;Salpingoecidae;Incertae sedis;	Choanoflagellatea	Opisthokont
+Opisthokont;Choanoflagellatea;Craspedida;Salpingoecidae;Incertae sedis;Monosiga;	Choanoflagellatea	Opisthokont
+Opisthokont;Choanoflagellatea;Craspedida;Salpingoecidae;Incertae sedis;Monosiga;Monosiga brevicollis;	Choanoflagellatea	Opisthokont
+Opisthokont;Choanoflagellatea;Craspedida;Salpingoecidae;Incertae sedis;Salpingoeca;	Choanoflagellatea	Opisthokont
+Opisthokont;Choanoflagellatea;Craspedida;Salpingoecidae;Incertae sedis;Salpingoeca;Salpingoeca rosetta;	Choanoflagellatea	Opisthokont
+Opisthokont;Fungi;	Fungi	Opisthokont
+Opisthokont;Fungi;Chrytridiomycetes;	Fungi	Opisthokont
+Opisthokont;Fungi;Chrytridiomycetes;Rhizophydiales;	Fungi	Opisthokont
+Opisthokont;Fungi;Chrytridiomycetes;Rhizophydiales;Incertae sedis;	Fungi	Opisthokont
+Opisthokont;Fungi;Chrytridiomycetes;Rhizophydiales;Incertae sedis;Batrachochytrium;	Fungi	Opisthokont
+Opisthokont;Fungi;Chrytridiomycetes;Rhizophydiales;Incertae sedis;Batrachochytrium;Batrachochytrium dendrobatidis;	Fungi	Opisthokont
+Opisthokont;Fungi;Saccharomycetes;	Fungi	Opisthokont
+Opisthokont;Fungi;Saccharomycetes;Saccharomycetales;	Fungi	Opisthokont
+Opisthokont;Fungi;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;	Fungi	Opisthokont
+Opisthokont;Fungi;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Debaryomyces;	Fungi	Opisthokont
+Opisthokont;Fungi;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Debaryomyces;Debaryomyces hansenii;	Fungi	Opisthokont
+Opisthokont;Fungi;Sordariomycetes;	Fungi	Opisthokont
+Opisthokont;Fungi;Sordariomycetes;Incertae sedis;	Fungi	Opisthokont
+Opisthokont;Fungi;Sordariomycetes;Incertae sedis;Incertae sedis;	Fungi	Opisthokont
+Opisthokont;Fungi;Sordariomycetes;Incertae sedis;Incertae sedis;Corollospora;	Fungi	Opisthokont
+Opisthokont;Fungi;Sordariomycetes;Incertae sedis;Incertae sedis;Corollospora;Corollospora maritime;	Fungi	Opisthokont
+Opisthokont;Fungi;Ustilaginomycetes;	Fungi	Opisthokont
+Opisthokont;Fungi;Ustilaginomycetes;Incertae sedis;	Fungi	Opisthokont
+Opisthokont;Fungi;Ustilaginomycetes;Incertae sedis;Incertae sedis;	Fungi	Opisthokont
+Opisthokont;Fungi;Ustilaginomycetes;Incertae sedis;Incertae sedis;Pseudozyma;	Fungi	Opisthokont
+Opisthokont;Metazoa;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Anthozoa;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Anthozoa;Actiniaria;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Anthozoa;Actiniaria;Edwardsiidae;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Anthozoa;Actiniaria;Edwardsiidae;Nematostella;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Anthozoa;Actiniaria;Edwardsiidae;Nematostella;Nematostella vectensis;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Appendicularia;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Appendicularia;Copelata;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Appendicularia;Copelata;Oikopleuridae;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Appendicularia;Copelata;Oikopleuridae;Oikopleura;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Appendicularia;Copelata;Oikopleuridae;Oikopleura;Oikopleura dioica;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Bivalvia;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Bivalvia;Ostreida;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Bivalvia;Ostreida;Ostreidae;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Bivalvia;Ostreida;Ostreidae;Crassostrea;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Bivalvia;Ostreida;Ostreidae;Crassostrea;Crassostrea gigas;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Crustacea;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Crustacea;Anomopoda;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Crustacea;Anomopoda;Daphniidae;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Crustacea;Anomopoda;Daphniidae;Daphnia;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Crustacea;Anomopoda;Daphniidae;Daphnia;Daphnia pulex;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Crustacea;Copepoda;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Crustacea;Copepoda;Calanidae;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Crustacea;Copepoda;Calanidae;Calanus;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Crustacea;Copepoda;Calanidae;Calanus;Calanus finmarchicus;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Crustacea;Copepoda;Harpacticidae;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Crustacea;Copepoda;Harpacticidae;Tigriopus;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Crustacea;Copepoda;Harpacticidae;Tigriopus;Tigriopus californicus;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Demospongiae;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Demospongiae;Haplosclerida;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Demospongiae;Haplosclerida;Niphatidae;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Demospongiae;Haplosclerida;Niphatidae;Amphimedon;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Demospongiae;Haplosclerida;Niphatidae;Amphimedon;Amphimedon queenslandica;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Echinoidea;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Echinoidea;Camarodonta;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Echinoidea;Camarodonta;Strongylocentrotidae;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Echinoidea;Camarodonta;Strongylocentrotidae;Strongylocentrotus;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Echinoidea;Camarodonta;Strongylocentrotidae;Strongylocentrotus;Strongylocentrotus purpuratus;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Gastropoda;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Gastropoda;Lottioidea;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Gastropoda;Lottioidea;Lottiidae;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Gastropoda;Lottioidea;Lottiidae;Lottia;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Gastropoda;Lottioidea;Lottiidae;Lottia;Lottia gigantea;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Myxozoa;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Myxozoa;Bibalvulida;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Myxozoa;Bibalvulida;Myxobolidae;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Myxozoa;Bibalvulida;Myxobolidae;Thelohanellus;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Polychaeta;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Polychaeta;Sedentaria;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Polychaeta;Sedentaria;Capitellidae;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Polychaeta;Sedentaria;Capitellidae;Capitella;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Polychaeta;Sedentaria;Capitellidae;Capitella;Capitella teleta;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Tentaculata;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Tentaculata;Cydippida;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Tentaculata;Cydippida;Pleurobrachiidae;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Tentaculata;Cydippida;Pleurobrachiidae;Pleurobrachia;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Tentaculata;Cydippida;Pleurobrachiidae;Pleurobrachia;Pleurobrachia bachei;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Tentaculata;Lobata;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Tentaculata;Lobata;Bolinopsidae;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Tentaculata;Lobata;Bolinopsidae;Mnemiopsis;	Metazoa	Opisthokont
+Opisthokont;Metazoa;Tentaculata;Lobata;Bolinopsidae;Mnemiopsis;Mnemiopsis leidyi;	Metazoa	Opisthokont
+Rhizaria;	Other	Rhizaria
+Rhizaria;Cercozoa;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Chlorarachniophyceae;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Chlorarachniophyceae;Bigelowiella;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Chlorarachniophyceae;Bigelowiella;Bigelowiella longifila;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Chlorarachniophyceae;Bigelowiella;Bigelowiella natans;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Chlorarachniophyceae;Chlorarachnion;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Chlorarachniophyceae;Chlorarachnion;Chlorarachnion reptans;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Chlorarachniophyceae;Gymnochlora;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Chlorarachniophyceae;Gymnochlora;Gymnochlora sp.;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Chlorarachniophyceae;Lotharella;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Chlorarachniophyceae;Lotharella;Lotharella amoebiformis;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Chlorarachniophyceae;Lotharella;Lotharella globosa;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Chlorarachniophyceae;Lotharella;Lotharella oceanica;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Chlorarachniophyceae;Norrisiella;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Chlorarachniophyceae;Norrisiella;Norrisiella sphaerica;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Chlorarachniophyceae;Partenskyella;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Chlorarachniophyceae;Partenskyella;Partenskyella glossopodia;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Paulinellideae;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Paulinellideae;Paulinella;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Filosa;Chlorarachniophyta;Paulinellideae;Paulinella;Paulinella chromatophora;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Haplospora;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Haplospora;Haplosporida;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Haplospora;Haplosporida;Haplosporiidae;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Haplospora;Haplosporida;Haplosporiidae;Minchinia;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Haplospora;Haplosporida;Haplosporiidae;Minchinia;Minchinia chitonis;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Thecofilosea;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Thecofilosea;Incertae sedis;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Thecofilosea;Incertae sedis;Incertae sedis;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Thecofilosea;Incertae sedis;Incertae sedis;Thecofilosea;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Thecofilosea;Incertae sedis;Incertae sedis;Thecofilosea;Thecofilosea Unknown;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Thecofilosea;Phaeodaria;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Thecofilosea;Phaeodaria;Incertae sedis;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Thecofilosea;Phaeodaria;Incertae sedis;Aulacantha;	Cercozoa	Rhizaria
+Rhizaria;Cercozoa;Thecofilosea;Phaeodaria;Incertae sedis;Aulacantha;Aulacantha scolymantha;	Cercozoa	Rhizaria
+Rhizaria;Retaria;	Retaria	Rhizaria
+Rhizaria;Retaria;Acantharia;	Acantharia	Rhizaria
+Rhizaria;Retaria;Acantharia;Incertae sedis;	Acantharia	Rhizaria
+Rhizaria;Retaria;Acantharia;Incertae sedis;Incertae sedis;	Acantharia	Rhizaria
+Rhizaria;Retaria;Acantharia;Incertae sedis;Incertae sedis;Amphilonche;	Acantharia	Rhizaria
+Rhizaria;Retaria;Acantharia;Incertae sedis;Incertae sedis;Amphilonche;Amphilonche elongata;	Acantharia	Rhizaria
+Rhizaria;Retaria;Acantharia;Taxopodida;	Acantharia	Rhizaria
+Rhizaria;Retaria;Acantharia;Taxopodida;Sticholonchida;	Acantharia	Rhizaria
+Rhizaria;Retaria;Acantharia;Taxopodida;Sticholonchida;Sticholonche;	Acantharia	Rhizaria
+Rhizaria;Retaria;Acantharia;Taxopodida;Sticholonchida;Sticholonche;Sticholonche;	Acantharia	Rhizaria
+Rhizaria;Retaria;Foraminifera;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Elphidiidae;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Elphidiidae;Incertae sedis;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Elphidiidae;Incertae sedis;Elphidium;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Reticulomyxidae;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Reticulomyxidae;Monothalamids;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Reticulomyxidae;Monothalamids;Reticulomyxa;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Reticulomyxidae;Monothalamids;Reticulomyxa;Reticulomyxa filosa;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Rosalinidae;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Rosalinidae;Incertae sedis;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Rosalinidae;Incertae sedis;Rosalina;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Rosalinidae;Incertae sedis;Rosalina;Rosalina sp.;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Rotaliidae;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Rotaliidae;Incertae sedis;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Rotaliidae;Incertae sedis;Ammonia;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Rotaliidae;Incertae sedis;Ammonia;Ammonia sp.;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Soritidae;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Soritidae;Incertae sedis;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Soritidae;Incertae sedis;Sorites;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Foraminifera;Soritidae;Incertae sedis;Sorites;Sorites sp.;	Foraminifera	Rhizaria
+Rhizaria;Retaria;Polycystinea;	Polycystinea	Rhizaria
+Rhizaria;Retaria;Polycystinea;Collodaria;	Polycystinea	Rhizaria
+Rhizaria;Retaria;Polycystinea;Collodaria;Incertae sedis;	Polycystinea	Rhizaria
+Rhizaria;Retaria;Polycystinea;Collodaria;Incertae sedis;Collozoum;	Polycystinea	Rhizaria
+Rhizaria;Retaria;Polycystinea;Collodaria;Incertae sedis;Collozoum;Collozoum sp.;	Polycystinea	Rhizaria
+Rhizaria;Retaria;Polycystinea;Nassellaria;	Polycystinea	Rhizaria
+Rhizaria;Retaria;Polycystinea;Nassellaria;Incertae sedis;	Polycystinea	Rhizaria
+Rhizaria;Retaria;Polycystinea;Nassellaria;Incertae sedis;Lithomelizza;	Polycystinea	Rhizaria
+Rhizaria;Retaria;Polycystinea;Nassellaria;Incertae sedis;Lithomelizza;Lithomelizza setosa;	Polycystinea	Rhizaria
+Rhizaria;Retaria;Polycystinea;Spumellaria;	Polycystinea	Rhizaria
+Rhizaria;Retaria;Polycystinea;Spumellaria;Collosphaeridae;	Polycystinea	Rhizaria
+Rhizaria;Retaria;Polycystinea;Spumellaria;Collosphaeridae;Spongosphaera;	Polycystinea	Rhizaria
+Rhizaria;Retaria;Polycystinea;Spumellaria;Collosphaeridae;Spongosphaera;Spongosphaera streptacantha;	Polycystinea	Rhizaria
+Rhizaria;Retaria;Polycystinea;Spumellaria;Collosphaeridae;Thalassicolla;	Polycystinea	Rhizaria
+Rhizaria;Retaria;Polycystinea;Spumellaria;Collosphaeridae;Thalassicolla;Thalassicolla nucleata;	Polycystinea	Rhizaria
+Stramenopile;	Other	Other Stramenopile
+Stramenopile;Bicosoecida;Biocoecea;	Bicosoecida	Other Stramenopile
+Stramenopile;Bicosoecida;Biocoecea;Bicoecida;	Bicosoecida	Other Stramenopile
+Stramenopile;Bicosoecida;Biocoecea;Bicoecida;Bicosoecaceae;	Bicosoecida	Other Stramenopile
+Stramenopile;Bicosoecida;Biocoecea;Bicoecida;Bicosoecaceae;Bicosoeca;	Bicosoecida	Other Stramenopile
+Stramenopile;Bicosoecida;Biocoecea;Bicoecida;Bicosoecaceae;Bicosoeca;Bicosoecid sp;	Bicosoecida	Other Stramenopile
+Stramenopile;Bicosoecida;Biocoecea;Bicoecida;Cafeteriaceae;	Bicosoecida	Other Stramenopile
+Stramenopile;Bicosoecida;Biocoecea;Bicoecida;Cafeteriaceae;Cafeteria;	Bicosoecida	Other Stramenopile
+Stramenopile;Bicosoecida;Biocoecea;Bicoecida;Cafeteriaceae;Cafeteria;Cafeteria roenbergensis;	Bicosoecida	Other Stramenopile
+Stramenopile;Bicosoecida;Biocoecea;Bicoecida;Cafeteriaceae;Cafeteria;Cafeteria sp.;	Bicosoecida	Other Stramenopile
+Stramenopile;Labyrinthulomycota;Labyrinthulomycetes;	Labyrinthulomycota	Other Stramenopile
+Stramenopile;Labyrinthulomycota;Labyrinthulomycetes;Labyrinthulales;	Labyrinthulomycota	Other Stramenopile
+Stramenopile;Labyrinthulomycota;Labyrinthulomycetes;Labyrinthulales;Aplanochytriaceae;	Labyrinthulomycota	Other Stramenopile
+Stramenopile;Labyrinthulomycota;Labyrinthulomycetes;Labyrinthulales;Aplanochytriaceae;Aplanochytrium;	Labyrinthulomycota	Other Stramenopile
+Stramenopile;Labyrinthulomycota;Labyrinthulomycetes;Labyrinthulales;Aplanochytriaceae;Aplanochytrium;Aplanochytrium sp;	Labyrinthulomycota	Other Stramenopile
+Stramenopile;Labyrinthulomycota;Labyrinthulomycetes;Labyrinthulales;Aplanochytriaceae;Aplanochytrium;Aplanochytrium stocchinoi;	Labyrinthulomycota	Other Stramenopile
+Stramenopile;Labyrinthulomycota;Labyrinthulomycetes;Thraustochytriales;	Labyrinthulomycota	Other Stramenopile
+Stramenopile;Labyrinthulomycota;Labyrinthulomycetes;Thraustochytriales;Thraustochytriacae;	Labyrinthulomycota	Other Stramenopile
+Stramenopile;Labyrinthulomycota;Labyrinthulomycetes;Thraustochytriales;Thraustochytriacae;Aurantiochytrium;	Labyrinthulomycota	Other Stramenopile
+Stramenopile;Labyrinthulomycota;Labyrinthulomycetes;Thraustochytriales;Thraustochytriacae;Aurantiochytrium;Aurantiochytrium limacinum;	Labyrinthulomycota	Other Stramenopile
+Stramenopile;Labyrinthulomycota;Labyrinthulomycetes;Thraustochytriales;Thraustochytriacae;Schizochytrium;	Labyrinthulomycota	Other Stramenopile
+Stramenopile;Labyrinthulomycota;Labyrinthulomycetes;Thraustochytriales;Thraustochytriacae;Schizochytrium;Schizochytrium aggregatum;	Labyrinthulomycota	Other Stramenopile
+Stramenopile;Labyrinthulomycota;Labyrinthulomycetes;Thraustochytriales;Thraustochytriacae;Thraustochytrium;	Labyrinthulomycota	Other Stramenopile
+Stramenopile;Labyrinthulomycota;Labyrinthulomycetes;Thraustochytriales;Thraustochytriacae;Thraustochytrium;Thraustochytrium sp.;	Labyrinthulomycota	Other Stramenopile
+Stramenopile;MAST;MAST;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-3;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-3;MAST-3;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-3;MAST-3;MAST-3;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-3;MAST-3;MAST-3;Incisomonas marina (MAST-3);	MAST	MAST
+Stramenopile;MAST;MAST;MAST-3;MAST-3;MAST-3A;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-3;MAST-3;MAST-3A;MAST-3A;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-3;MAST-3;MAST-3F;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-3;MAST-3;MAST-3F;MAST-3F;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-4;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-4;MAST-4;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-4;MAST-4;MAST-4;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-4;MAST-4;MAST-4;MAST-4;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-4;MAST-4;MAST-4A;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-4;MAST-4;MAST-4A;MAST-4A;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-4;MAST-4;MAST-4A;MAST-4A1;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-4;MAST-4;MAST-4A;MAST-4A2;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-4;MAST-4;MAST-4C;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-4;MAST-4;MAST-4C;MAST-4C;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-4;MAST-4;MAST-4E;	MAST	MAST
+Stramenopile;MAST;MAST;MAST-4;MAST-4;MAST-4E;MAST-4E;	MAST	MAST
+Stramenopile;Ochrophyta;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Bacillariophyceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Bacillariales;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Cylindrotheca;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Cylindrotheca;Cylindrotheca closterium;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Fragilariopsis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Fragilariopsis;Fragilariopsis kerguelensis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Nitzschia;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia punctata;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia sp.;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;Pseudo-nitzschia arenysensis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;Pseudo-nitzschia australis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;Pseudo-nitzschia delicatissima;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;Pseudo-nitzschia fraudulenta;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;Pseudo-nitzschia heimii;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;Pseudo-nitzschia pungens;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Corethrids;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Corethrids;Incertae sedis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Corethrids;Incertae sedis;Corethron;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Corethrids;Incertae sedis;Corethron;Corethron hystrix;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Corethrids;Incertae sedis;Corethron;Corethron pennatum;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Coscinodiscids;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Coscinodiscids;Incertae sedis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Coscinodiscids;Incertae sedis;Coscinodiscus;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Coscinodiscids;Incertae sedis;Coscinodiscus;Coscinodiscus wailesii;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Cyclophorales;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Cyclophorales;Cyclophoraceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Cyclophorales;Cyclophoraceae;Cyclophora;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Cyclophorales;Cyclophoraceae;Cyclophora;Cyclophora tenuis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Cyclophorales;Incertae sedis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Cyclophorales;Incertae sedis;Astrosyne;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Cyclophorales;Incertae sedis;Astrosyne;Astrosyne radiata;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Cymatosirales;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Cymatosirales;Cymatosiraceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Cymatosirales;Cymatosiraceae;Extubocellulus;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Cymatosirales;Cymatosiraceae;Extubocellulus;Extubocellulus spinifer;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Cymatosirales;Cymatosiraceae;Minutocellus;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Cymatosirales;Cymatosiraceae;Minutocellus;Minutocellus polymorphus;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Hemiaulales;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Hemiaulales;Hemiaulaceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Hemiaulales;Hemiaulaceae;Eucampia;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Hemiaulales;Hemiaulaceae;Eucampia;Eucampia antarctica;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Incertae sedis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Incertae sedis;Attheyaceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Incertae sedis;Attheyaceae;Attheya;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Incertae sedis;Attheyaceae;Attheya;Attheya septentrionalis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Incertae sedis;Chaetocerotaceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Incertae sedis;Chaetocerotaceae;Chaetoceros;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros affinis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros brevis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros cf. neogracile;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros curvisetus;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros debilis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros dichaeta;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros neogracile;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros sp.;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Licmophorales;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Licmophorales;Licmophoraceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Licmophorales;Licmophoraceae;Licomophora;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Licmophorales;Licmophoraceae;Licomophora;Licmophora paradoxa;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Lithodesmiales;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Lithodesmiales;Lithodesmiaceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Lithodesmiales;Lithodesmiaceae;Ditylum;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Lithodesmiales;Lithodesmiaceae;Ditylum;Ditylum brightwellii;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Lithodesmiales;Lithodesmiaceae;Helicotheca;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Lithodesmiales;Lithodesmiaceae;Helicotheca;Helicotheca tamensis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Lithodesmiales;Lithodesmiaceae;Leptocylindrus;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Lithodesmiales;Lithodesmiaceae;Leptocylindrus;Leptocylindrus danicus var. apora;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Lithodesmiales;Lithodesmiaceae;Leptocylindrus;Leptocylindrus danicus var. danicus;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Lithodesmiales;Lithodesmiaceae;Leptocylindrus;Leptocylindrus danicus;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Melosirids;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Melosirids;Incertae sedis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Melosirids;Incertae sedis;Aulacoseira;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Melosirids;Incertae sedis;Aulacoseira;Aulacoseira subarctica;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Melosirids;Stephanopyxidaceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Melosirids;Stephanopyxidaceae;Stephanopyxis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Melosirids;Stephanopyxidaceae;Stephanopyxis;Stephanopyxis turris;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Naviculales;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Naviculales;Amphipleuraceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Naviculales;Amphipleuraceae;Amphiprora;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Naviculales;Amphipleuraceae;Amphiprora;Amphiprora paludosa;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Naviculales;Amphipleuraceae;Amphiprora;Amphiprora sp.;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Naviculales;Naviculaceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Naviculales;Naviculaceae;Craspedostauros;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Naviculales;Naviculaceae;Craspedostauros;Craspedostauros australis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Naviculales;Phaeodactylaceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Naviculales;Phaeodactylaceae;Phaeodactylum;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Naviculales;Phaeodactylaceae;Phaeodactylum;Phaeodactylum tricornutum;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Naviculales;Stauroneidaceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Naviculales;Stauroneidaceae;Stauroneis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Naviculales;Stauroneidaceae;Stauroneis;Stauroneis constricta;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Rhaphoneidales;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Rhaphoneidales;Asterionellopsidaceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Rhaphoneidales;Asterionellopsidaceae;Asterionellopsis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Rhaphoneidales;Asterionellopsidaceae;Asterionellopsis;Asterionellopsis glacialis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Rhaphoneidales;Asterionellopsidaceae;Staurosira;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Rhaphoneidales;Asterionellopsidaceae;Staurosira;Staurosira complex sp.;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Rhaphoneidales;Asterionellopsidaceae;Synedropsis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Rhaphoneidales;Asterionellopsidaceae;Synedropsis;Synedropsis recta cf;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Rhizosoleniales;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Rhizosoleniales;Rhizosoleniaceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Rhizosoleniales;Rhizosoleniaceae;Dactyliosolen;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Rhizosoleniales;Rhizosoleniaceae;Dactyliosolen;Dactyliosolen fragilissimus;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Rhizosoleniales;Rhizosoleniaceae;Proboscia;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Rhizosoleniales;Rhizosoleniaceae;Proboscia;Proboscia alata;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Rhizosoleniales;Rhizosoleniaceae;Proboscia;Proboscia inermis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Rhizosoleniales;Rhizosoleniaceae;Rhizosolenia;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Rhizosoleniales;Rhizosoleniaceae;Rhizosolenia;Rhizosolenia setigera;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Straitellales;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Straitellales;Striatellaceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Straitellales;Striatellaceae;Gammatophora;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Straitellales;Striatellaceae;Gammatophora;Grammatophora oceanica;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Straitellales;Striatellaceae;Striatella;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Straitellales;Striatellaceae;Striatella;Striatella unipunctata;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Surirellales;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Surirellales;Entomoneidaceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Surirellales;Entomoneidaceae;Entomoneis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Surirellales;Entomoneidaceae;Entomoneis;Entomoneis sp.;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassionematales;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassionematales;Thalassionemataceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassionematales;Thalassionemataceae;Thalassionema;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassionematales;Thalassionemataceae;Thalassionema;Thalassionema frauenfeldii;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassionematales;Thalassionemataceae;Thalassionema;Thalassionema nitzschioides;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassionematales;Thalassionemataceae;Thalassiothrix;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassionematales;Thalassionemataceae;Thalassiothrix;Thalassiothrix antarctica;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiophysales;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiophysales;Catenulaceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiophysales;Catenulaceae;Amphora;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiophysales;Catenulaceae;Amphora;Amphora coffeaeformis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiophysales;Stephanodiscaceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiophysales;Stephanodiscaceae;Cyclotella;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Skeletonemaceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Skeletonemaceae;Detonula;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Skeletonemaceae;Detonula;Detonula confervacea;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Skeletonemaceae;Skeletonema;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Skeletonemaceae;Skeletonema;Skeletonema costatum;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Skeletonemaceae;Skeletonema;Skeletonema dohrnii;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Skeletonemaceae;Skeletonema;Skeletonema grethea;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Skeletonemaceae;Skeletonema;Skeletonema japonicum;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Skeletonemaceae;Skeletonema;Skeletonema marinoi;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Skeletonemaceae;Skeletonema;Skeletonema menzelii;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Thalassiosiraceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira antarctica;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira gravida;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira miniscula;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira oceanica;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira pseudonana;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira punctigera;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira rotula;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira sp.;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira weissflogii;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Triceratiales;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Triceratiales;Triceratiaceae;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Triceratiales;Triceratiaceae;Odontella;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Triceratiales;Triceratiaceae;Odontella;Odontella aurita;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Triceratiales;Triceratiaceae;Odontella;Odontella Sinensis;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Triceratiales;Triceratiaceae;Triceratium;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bacillariophyceae;Triceratiales;Triceratiaceae;Triceratium;Triceratium dubium;	Bacillariophyceae	Diatom
+Stramenopile;Ochrophyta;Bolidophyceae;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Bolidophyceae;Bolidomonadales;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Bolidophyceae;Bolidomonadales;Bolidomonadaceae;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Bolidophyceae;Bolidomonadales;Bolidomonadaceae;Bolidomonas;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Bolidophyceae;Bolidomonadales;Bolidomonadaceae;Bolidomonas;Bolidomonas pacifica;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Bolidophyceae;Bolidomonadales;Bolidomonadaceae;Bolidomonas;Bolidomonas sp.;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Chromulinales;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Chromulinales;Incertae sedis;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Chromulinales;Incertae sedis;Chromulina;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Chromulinales;Incertae sedis;Chromulina;Chromulina nebulosa;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Ochromonadales;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Ochromonadales;Incertae sedis;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Ochromonadales;Incertae sedis;Dinobryon;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Ochromonadales;Incertae sedis;Dinobryon;Dinobryon sp.;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Ochromonadales;Incertae sedis;Ochromonas;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Ochromonadales;Incertae sedis;Ochromonas;Ochromonas sp;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Ochromonadales;Incertae sedis;Ochromonas;Ochromonas sp.;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Ochromonadales;Incertae sedis;Spumella;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Ochromonadales;Incertae sedis;Spumella;Spumella elongata;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Paraphysomonadida;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Paraphysomonadida;Incertae sedis;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Paraphysomonadida;Incertae sedis;Paraphysomonas;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Paraphysomonadida;Incertae sedis;Paraphysomonas;Paraphysomonas bandaiensis;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Paraphysomonadida;Incertae sedis;Paraphysomonas;Paraphysomonas Imperforata;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Parmales;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Parmales;Incertae sedis;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Parmales;Incertae sedis;Chrysophyte-H;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Parmales;Incertae sedis;Chrysophyte-H;Chrysophyte H1;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Parmales;Incertae sedis;Chrysophyte-H;Chrysophyte H2;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Synurales;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Synurales;Incertae sedis;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Synurales;Incertae sedis;Mallomonas;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Chrysophyta;Synurales;Incertae sedis;Mallomonas;Mallomonas Sp;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Dictyochales;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Dictyochales;Dictyochaceae;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Dictyochales;Dictyochaceae;Dictyocha;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Dictyochales;Dictyochaceae;Dictyocha;Dictyocha speculum;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Florenciellales;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Florenciellales;Incertae sedis;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Florenciellales;Incertae sedis;Florenciella;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Florenciellales;Incertae sedis;Florenciella;Florenciella parvula;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Florenciellales;Incertae sedis;Florenciella;Florenciella sp.;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Pedinellales;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Pedinellales;Pedinellaceae;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Pedinellales;Pedinellaceae;Pseudopedinella;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Pedinellales;Pedinellaceae;Pseudopedinella;Pseudopedinella elastica;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Pedinellales;Pedinellaceae;Pteridomonas;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Pedinellales;Pedinellaceae;Pteridomonas;Pteridomonas danica;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Pinguiochrysidales;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Pinguiochrysidales;Pinguiochrysidaceae;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Pinguiochrysidales;Pinguiochrysidaceae;Phaeomonas;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Pinguiochrysidales;Pinguiochrysidaceae;Phaeomonas;Phaeomonas parva;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Pinguiochrysidales;Pinguiochrysidaceae;Pinguiococcus;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Pinguiochrysidales;Pinguiochrysidaceae;Pinguiococcus;Pinguiococcus pyrenoidosus;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Rhizochromulinales;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Rhizochromulinales;Rhizochromulinaceae;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Rhizochromulinales;Rhizochromulinaceae;Rhizochromulina;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Dictyochophyceae;Rhizochromulinales;Rhizochromulinaceae;Rhizochromulina;Rhizochromulina marina cf;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Eustigmatophyceae;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Eustigmatophyceae;Eustigmatales;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Eustigmatophyceae;Eustigmatales;Monodopsidaceae;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Eustigmatophyceae;Eustigmatales;Monodopsidaceae;Nannochloropsis;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Eustigmatophyceae;Eustigmatales;Monodopsidaceae;Nannochloropsis;Nannochloropsis gaditana;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Pelagophyceae;	Pelagophyceae	Pelagophytes
+Stramenopile;Ochrophyta;Pelagophyceae;Pelagomonadales;	Pelagophyceae	Pelagophytes
+Stramenopile;Ochrophyta;Pelagophyceae;Pelagomonadales;Pelagomonadaceae;	Pelagophyceae	Pelagophytes
+Stramenopile;Ochrophyta;Pelagophyceae;Pelagomonadales;Pelagomonadaceae;Aureococcus;	Pelagophyceae	Pelagophytes
+Stramenopile;Ochrophyta;Pelagophyceae;Pelagomonadales;Pelagomonadaceae;Aureococcus;Aureococcus anophagefferens;	Pelagophyceae	Pelagophytes
+Stramenopile;Ochrophyta;Pelagophyceae;Pelagomonadales;Pelagomonadaceae;Pelagococcus;	Pelagophyceae	Pelagophytes
+Stramenopile;Ochrophyta;Pelagophyceae;Pelagomonadales;Pelagomonadaceae;Pelagococcus;Pelagococcus subviridis;	Pelagophyceae	Pelagophytes
+Stramenopile;Ochrophyta;Pelagophyceae;Pelagomonadales;Pelagomonadaceae;Pelagomonas;	Pelagophyceae	Pelagophytes
+Stramenopile;Ochrophyta;Pelagophyceae;Pelagomonadales;Pelagomonadaceae;Pelagomonas;Pelagomonas calceolata;	Pelagophyceae	Pelagophytes
+Stramenopile;Ochrophyta;Pelagophyceae;Sarcinochrysidales;	Pelagophyceae	Pelagophytes
+Stramenopile;Ochrophyta;Pelagophyceae;Sarcinochrysidales;Sarcinochrysidaceae;	Pelagophyceae	Pelagophytes
+Stramenopile;Ochrophyta;Pelagophyceae;Sarcinochrysidales;Sarcinochrysidaceae;Aureoumbra;	Pelagophyceae	Pelagophytes
+Stramenopile;Ochrophyta;Pelagophyceae;Sarcinochrysidales;Sarcinochrysidaceae;Aureoumbra;Aureoumbra lagunensis;	Pelagophyceae	Pelagophytes
+Stramenopile;Ochrophyta;Pelagophyceae;Sarcinochrysidales;Sarcinochrysidaceae;Chrysocystis;	Pelagophyceae	Pelagophytes
+Stramenopile;Ochrophyta;Pelagophyceae;Sarcinochrysidales;Sarcinochrysidaceae;Chrysoreinhardia;	Pelagophyceae	Pelagophytes
+Stramenopile;Ochrophyta;Pelagophyceae;Sarcinochrysidales;Sarcinochrysidaceae;Chrysoreinhardia;Chrysoreinhardia sp;	Pelagophyceae	Pelagophytes
+Stramenopile;Ochrophyta;Pelagophyceae;Sarcinochrysidales;Sarcinochrysidaceae;Sarcinochrysis;	Pelagophyceae	Pelagophytes
+Stramenopile;Ochrophyta;Pelagophyceae;Sarcinochrysidales;Sarcinochrysidaceae;Sarcinochrysis;Sarcinochrysis sp;	Pelagophyceae	Pelagophytes
+Stramenopile;Ochrophyta;Raphidophyceae;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Raphidophyceae;Chattonellales;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Raphidophyceae;Chattonellales;Vacuolariaceae;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Raphidophyceae;Chattonellales;Vacuolariaceae;Chattonella;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Raphidophyceae;Chattonellales;Vacuolariaceae;Chattonella;Chattonella subsalsa;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Raphidophyceae;Chattonellales;Vacuolariaceae;Fibrocapsa;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Raphidophyceae;Chattonellales;Vacuolariaceae;Fibrocapsa;Fibrocapsa japonica;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Raphidophyceae;Chattonellales;Vacuolariaceae;Heterosigma;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Raphidophyceae;Chattonellales;Vacuolariaceae;Heterosigma;Heterosigma akashiwo;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Synchromophyceae;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Synchromophyceae;Synchromales;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Synchromophyceae;Synchromales;Synchromaceae;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Synchromophyceae;Synchromales;Synchromaceae;Synchroma;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Synchromophyceae;Synchromales;Synchromaceae;Synchroma;Synchroma pusillum;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Xanthophyceae;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Xanthophyceae;Vaucheriales;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Xanthophyceae;Vaucheriales;Vaucheriaceae;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Xanthophyceae;Vaucheriales;Vaucheriaceae;Vaucheria;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Xanthophyceae;Vaucheriales;Vaucheriaceae;Vaucheria;Vaucheria litorea;	Ochrophyta	Other Stramenopile
+Alveolate;Dinoflagellate;Perkinsids;Incertae sedis;Incertae sedis;Perkinsus;Perkinsus chesapeaki;	Dinoflagellate	Dinoflagellate
+Amoebozoa;Discosea;Flabellinia;Incertae sedis;Incertae sedis;Vannella;Vannella robusta;	Discosea	Other
+Amoebozoa;Discosea;Flabellinia;Incertae sedis;Incertae sedis;Vexillifera;Vexillifera sp.;	Discosea	Other
+Amoebozoa;Tubulinea;Arcellinida;Incertae sedis;Incertae sedis;Sexangularia;Sexangularia sp.;	Tubulinea	Other
+Archaeplastida;Rhodophyta;Compsopogonophyceae;Compsopogonales;Compsopogonaceae;Compsopogon;Compsopogon coeruleus;	Rhodophyta	Other Archaeplastida
+Stramenopile;Ochrophyta;Chrysophyta;Paraphysomonadida;Incertae sedis;Paraphysomonas;Paraphysomonas vestita;	Ochrophyta	Other Stramenopile
+Stramenopile;Ochrophyta;Pelagophyceae;Sarcinochrysidales;Sarcinochrysidaceae;Chrysocystis;Chrysocystis fragilis;	Pelagophyceae	Pelagophytes
+Alveolate;Dinoflagellate;Dinophyceae;Gymnodiniales;Gymnodiniaceae;Akashiwo;Akashiwo sanguinea;	Dinoflagellate	Dinoflagellate
+Amoebozoa;Discosea;Incertae sedis;Incertae sedis;Incertae sedis;Stereomyxa;Dracoamoeba jormungandri (formerly Stereomyxa ramosa);	Discosea	Other
+Archaeplastida;Rhodophyta;Porphyridiophyceae;Porphyridiales;Porphyridiaceae;Timspurckia;Timspurckia oligopyrenoides;	Rhodophyta	Other Archaeplastida
+Alveolate;Ciliate;Oligohymenophorea;Philasterida;Uronematidae;Uronema;Uronema sp.;	Ciliate	Ciliate
+Archaeplastida;Rhodophyta;Cyanidiophyceae;Cyanidiales;Galdieriaceae;Galdieria;Galdieria sulphuraria;	Rhodophyta	Other Archaeplastida
+Amoebozoa;Discosea;Flabellinia;Incertae sedis;Incertae sedis;Pessonella;Pessonella sp.;	Discosea	Other
+Archaeplastida;Chlorophyta;Chlorophyceae;Tetrasporales;Incertae sedis;Cyanoptyche;Cyanoptyche gloeocystis;	Chlorophyta	Chlorophyta
+Opisthokont;Fungi;Ustilaginomycetes;Incertae sedis;Incertae sedis;Pseudozyma;Pseudozyma antarctica;	Fungi	Opisthokont
+Alveolate;Ciliate;Heterotrichea;Heterotrichia;Climacostomidae;Fabrea;Fabrea salina;	Ciliate	Ciliate
+Alveolate;Dinoflagellate;Dinophyceae;Gonyaulacales;Pyrocystaceae;	Dinoflagellate	Dinoflagellate
+Alveolate;Dinoflagellate;Dinophyceae;Gymnodiniales;Gymnodiniaceae;Gyrodinium;Gyrodinium dominans;	Dinoflagellate	Dinoflagellate
+Opisthokont;Metazoa;Myxozoa;Bibalvulida;Myxobolidae;Thelohanellus;Thelohanellus kitauei;	Metazoa	Opisthokont
+Archaeplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Chlamydomonadaceae;Chlamydomonas;Chlamydomonas chlamydogama;	Chlorophyta	Chlorophyta
+Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;Thoracosphaeraceae;Thoracosphaera;Thoracosphaera heimii;	Dinoflagellate	Dinoflagellate
+Archaeplastida;Chlorophyta;Trebouxiophyceae;Incertae sedis;Incertae sedis;Picochlorum;Picochlorum oklahomensis;	Chlorophyta	Chlorophyta
+Stramenopile;Ochrophyta;Bacillariophyceae;Thalassiophysales;Stephanodiscaceae;Cyclotella;Cyclotella meneghiniana;	Bacillariophyceae	Diatom
+Archaeplastida;Rhodophyta;Porphyridiophyceae;Porphyridiales;Porphyridiaceae;Erythrolobus;Erythrolobus australicus;	Rhodophyta	Other Archaeplastida
+Alveolate;Apicomplexa;Conoidasida;Incertae sedis;Incertae sedis;Lankesteria;Lankesteria abbottii;	Apicomplexa	Other Alveolate
+Rhizaria;Retaria;Foraminifera;Elphidiidae;Incertae sedis;Elphidium;Elphidium margaritaceum;	Foraminifera	Rhizaria
