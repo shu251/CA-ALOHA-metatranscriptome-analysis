@@ -3,7 +3,7 @@ library(ggplot2); library(pheatmap)
 library(vegan);library(cowplot)
 library(tidyverse)
 
-load("Normed_avg_annotated_08022018.RData", verbose=TRUE)
+load("Normed_avg_annotated_08022018.RData", verbose=TRUE) # From Zenodo
 
 # Format to plot at Supergroup level
 # unique(df_wtax$Supergroup)
@@ -253,7 +253,6 @@ plot_grid(plot_order %+% subset(order_sub, Nextlevel %in% "Dinoflagellate")+scal
 # dev.off()
 
 load("Normed_avg_annotated_08022018.RData", verbose=T) #available from Zenodo
-
 load("ReNorm_bytax_08022018.RData", verbose=T) #available from Zenodo
 
 # import Kegg list information:
@@ -273,7 +272,7 @@ whole_wcat <- left_join(wholecomm_wK0, custom, by="KO")
 # head(whole_wcat)
 
 # Option to save and use R object
-save(whole_wcat, file="NormedbyWhole_annotated.RData")
+# save(whole_wcat, file="NormedbyWhole_annotated.RData")
 
 # Join with data that is normalized by individual taxonomic groups
 combo_tax_wK0<-left_join(comboTax, keggs,by="KO")
@@ -318,12 +317,12 @@ tax <- read.delim("taxonomic-assign-reference.txt")
 # head(binary_wide[1:2,])
 binary_wide$annot<-row.names(binary_wide) # pull out row names as a category to annotate
 tmp<-colsplit(binary_wide$annot, "_", c("Taxonomy", "KO"));head(tmp)
-tmp_wtax<-left_join(tmp, tax2, by="Taxonomy")
+tmp_wtax<-left_join(tmp, tax, by="Taxonomy")
 
 df<-binary_wide[1:9]
 # head(df)
 df$Intersect <- apply(df > 0, 1, function(x){toString(names(df)[x])})
-head(df[1:3,])
+# head(df[1:3,])
 
 binary_tax <- df %>%
     rownames_to_column(var = "uniq") %>% 
@@ -353,7 +352,7 @@ plot_tax_bin<-ggplot(binary_tax, aes(x=order_x, fill=TAX_ORDER))+
 options(repr.plot.width = 16, repr.plot.height = 7)
 plot_tax_bin %+% subset(binary_tax, Intersect %in% intersect_order) #w:1080 h:650
 
-custom_paths <- read.delim("Custom_KO_list_11212019.txt", header = TRUE)
+custom_paths <- read.delim("Custom_KO_list_30-04-2020.txt", header = TRUE)
 load("Normedbytax_annotated.RData", verbose = T)
 tax_wcat$Category<- NULL
 tax_wcat_subset <- inner_join(tax_wcat, custom_paths, by="KO")
@@ -385,35 +384,45 @@ plot_pcoa <- function(pcoa_in, tax) {
   df$TAXA <- tax
   eigenvalues<-round(pcoa_in$sdev, 4)*100
   # Factoring
-  sample_list<-c("Catalina_surface", "PortofLA_surface", "SPOT_surface", "ALOHA_surface","ALOHA_DCM", "ALOHA_150m", "SPOT_150m","SPOT_890m","ALOHA_1000m")
-  df$SAMPLE_ORDER<-factor(df$SAMPLE, levels=sample_list)
-  sample_alpha <- c(1,1,1,0.5,0.5,0.5,1,1,0.5)
   depth_order <- c("surface", "DCM", "150m", "890m", "1000m")
   df$DEPTH_ORDER <-factor(df$Depth, levels = depth_order)
-  DEPTH_SHAPE <- c(24,25,21,22,23)
+  DEPTH_COLOR <- c("#f768a1","#fe9929","#41ab5d", "#084594", "#084594")
+  names(DEPTH_COLOR)<-depth_order
   loc_order <-c("ALOHA", "Catalina", "PortofLA", "SPOT")
   df$LOC_ORDER <- factor(df$Location, levels = loc_order)
-  LOC_COL <-c("#c51b7d","#fee08b","#1a9850","#4575b4")
-  names(LOC_COL)<-loc_order
-  tax_order<-c("Dinoflagellate","Ciliate","MAST","Bacillariophyceae","Pelagophyceae","Chlorophyta","Haptophyta","Rhizaria")
-  df$TAX_ORDER <- factor(df$TAXA, levels= tax_order)
-  TAX_COL<-c("#612741","#b74a70","#92462f","#bb603c","#dfa837","#33431e","#61ac86","#657abb")
-  names(TAX_COL)<-tax_order
-  ggplot(df, aes(x=Comp.1, y=Comp.2, fill=TAX_ORDER, shape=DEPTH_ORDER)) +
+  LOC_SHAPE <- c(5, 18, 15, 19)
+  names(LOC_SHAPE)<-loc_order
+  # Factoring
+#   sample_list<-c("Catalina_surface", "PortofLA_surface", "SPOT_surface", "ALOHA_surface","ALOHA_DCM", "ALOHA_150m", "SPOT_150m","SPOT_890m","ALOHA_1000m")
+#   df$SAMPLE_ORDER<-factor(df$SAMPLE, levels=sample_list)
+#   sample_alpha <- c(1,1,1,0.5,0.5,0.5,1,1,0.5)
+#   depth_order <- c("surface", "DCM", "150m", "890m", "1000m")
+#   df$DEPTH_ORDER <-factor(df$Depth, levels = depth_order)
+#   DEPTH_SHAPE <- c(24,25,21,22,23)
+#   loc_order <-c("ALOHA", "Catalina", "PortofLA", "SPOT")
+#   df$LOC_ORDER <- factor(df$Location, levels = loc_order)
+#   LOC_COL <-c("#c51b7d","#fee08b","#1a9850","#4575b4")
+#   names(LOC_COL)<-loc_order
+#   tax_order<-c("Dinoflagellate","Ciliate","MAST","Bacillariophyceae","Pelagophyceae","Chlorophyta","Haptophyta","Rhizaria")
+#   df$TAX_ORDER <- factor(df$TAXA, levels= tax_order)
+#   TAX_COL<-c("#612741","#b74a70","#92462f","#bb603c","#dfa837","#33431e","#61ac86","#657abb")
+#   names(TAX_COL)<-tax_order
+  ggplot(df, aes(x=Comp.1, y=Comp.2, fill=DEPTH_ORDER, shape = LOC_ORDER)) +
     geom_hline(yintercept=0, color="black")+
     geom_vline(xintercept=0, color="black")+
-    geom_point(stat="identity", color="black", size=4, aes(alpha = SAMPLE_ORDER))+
-    scale_fill_manual(values = TAX_COL)+
-    scale_alpha_manual(values = sample_alpha)+
-    scale_shape_manual(values = DEPTH_SHAPE)+
-    labs(x=eigenvalues[1], y=eigenvalues[2], title = tax)+
+    geom_point(stat="identity", size=4, aes(fill=DEPTH_ORDER, color = DEPTH_ORDER, shape=LOC_ORDER))+
+    scale_fill_manual(values = DEPTH_COLOR)+
+    scale_color_manual(values = DEPTH_COLOR)+
+    scale_shape_manual(values = LOC_SHAPE)+
+    labs(x=eigenvalues[1], y=eigenvalues[2])+
     theme_minimal()+
     theme(axis.text = element_text(color="black", face="bold"),
-          panel.grid.major = element_line(color="grey"))+
+          panel.grid.major = element_line(color="grey"),
+         legend.position = "none")+
     guides(fill = guide_legend(override.aes = list(shape = 21)),
-           shape = guide_legend(override.aes = list(fill = "black")))
-    # scale_x_continuous(limits = c(-2, 2))+
-    # scale_y_continuous(limits = c(-1.2, 1.2))
+           shape = guide_legend(override.aes = list(fill = "black")))+
+    scale_x_continuous(limits = c(-1.5, 1.5))+
+    scale_y_continuous(limits = c(-1, 1))
 }
 unique(tax_wcat_subset$taxa)
 
@@ -423,19 +432,31 @@ pc_ciliate <- generate_pcoa(tax_wcat_subset, "Ciliate")
 pc_mast <- generate_pcoa(tax_wcat_subset, "MAST")
 pc_rhiz <- generate_pcoa(tax_wcat_subset, "Rhizaria")
 pc_hapto <- generate_pcoa(tax_wcat_subset, "Haptophyta")
-plot_pcoa(pc_dinos, "Dinoflagellate")
-plot_pcoa(pc_ciliate, "Ciliate")
-plot_pcoa(pc_mast, "MAST")
-plot_pcoa(pc_rhiz, "Rhizaria")
-plot_pcoa(pc_hapto, "Haptophyta")
+pc_diat <- generate_pcoa(tax_wcat_subset, "Bacillariophyceae")
+pc_chloro <- generate_pcoa(tax_wcat_subset, "Chlorophyta")
+pc_pela <- generate_pcoa(tax_wcat_subset, "Pelagophyceae")
+
+options(repr.plot.width = 14, repr.plot.height = 6)
+
+# svg("pca-bytax-supp.svg", w = 14, h = 6)
+plot_grid(plot_pcoa(pc_dinos, "Dinoflagellate"),
+          plot_pcoa(pc_ciliate, "Ciliate"),
+          plot_pcoa(pc_mast, "MAST"),
+          plot_pcoa(pc_rhiz, "Rhizaria"),
+          plot_pcoa(pc_hapto, "Haptophyta"),
+          plot_pcoa(pc_diat, "Bacillariophyceae"),
+          plot_pcoa(pc_chloro, "Chlorophyta"),
+          plot_pcoa(pc_pela, "Pelagophyceae"),
+          ncol = 4, align = "hv", 
+          labels = c("a. Dinoflagellates", "b. Ciliates", "c. MAST", 
+                     "d. Rhizaria", "e. Haptophytes", "f. Diatoms", "g. Chlorophytes", "h. Pelagophytes"))
+# dev.off()
 
 load("NormedbyWhole_annotated.RData", verbose = T)
 tax <- read.delim("taxonomic-assign-reference.txt")
 
-head(whole_wcat)
-head(tax)
-
-head(whole_wcat)
+# head(whole_wcat)
+# head(tax)
 
 unigene_prof <- whole_wcat %>% 
     unite(SAMPLE, Location, Depth, sep = "_", remove = FALSE) %>% 
@@ -503,7 +524,7 @@ byloc_PCA
 
 library(plotly)
 
-save(pcoa_all_df, eigenvalues, pcoa, file = "pcoa-input-2020.RData")
+# save(pcoa_all_df, eigenvalues, pcoa, file = "pcoa-input-2020.RData")
 
 pca_3d <- plot_ly(pcoa_all_df,x=~Comp.1,y=~Comp.2,z=~Comp.3,symbol=~Loc, color=~Depth,
       colors=c("#084594","#41ab5d","#084594","#fe9929","#f768a1"), symbols = c(5,18,15,19))%>%
@@ -626,7 +647,6 @@ a<-pheat_bySAMPLE(whole_targetSUM, all, "All")
 
 load("Normedbytax_annotated.RData",verbose=T)
 # data includes normalized BY individual groups
-# tax_wcat$Category<- NULL
 head(tax_wcat[1:2,])
 
 unique(tax_wcat$taxa); unique(tax_wcat$Category)
@@ -687,7 +707,7 @@ bar_cat
 # load library ggpubr
 library(ggpubr)
 
-# load("Normedbytax_annotated.RData", verbose = T)
+load("Normedbytax_annotated.RData", verbose = T)
 head(tax_wcat[1:2,]); dim(tax_wcat)
 
 rm <- c("butyryl", "other", "else", "additional breakdown", "por")
@@ -699,20 +719,26 @@ input_wilcox_df <- tax_wcat %>%  #FULL
     unite(tax_cat, Category, taxa, sep = "_", remove = FALSE) %>% 
     data.frame
 
+# hist(input_wilcox_df$mean_count)
+
 wilcox_output <- compare_means(mean_count ~ sample, 
                      data = input_wilcox_df, 
                      method = "wilcox.test", 
                      group.by = "tax_cat",
-                     p.adjust.method = "bonferroni")
-head(wilcox_output)
+                     p.adjust.method = "fdr")
+# tmp <- head(wilcox_output)
 table(wilcox_output$p.signif)
 
 wilcox_output_wide <- wilcox_output %>% 
     separate(tax_cat, c("Category", "Taxa"), sep = "_") %>% 
-    select(-.y., -p, -p.format, -method) %>% 
+    select(-.y., -p, -p.format, -method, -p.signif) %>% 
+    mutate(p.sig = case_when(
+        p.adj > 0.05 ~ "ns",
+        (p.adj <= 0.05 & p.adj > 0.001) ~ "*",
+        p.adj <= 0.001 ~ "***")) %>% 
     unite(COMPARE, Taxa, group1, group2, sep = "-") %>% 
     pivot_wider(id_cols = COMPARE, names_from = Category, 
-                values_from = c(p.adj, p.signif),
+                values_from = c(p.adj, p.sig),
                 names_glue = "{Category}_{.value}") %>% 
     column_to_rownames("COMPARE") %>% 
     select(sort(colnames(.))) %>% 
@@ -720,6 +746,8 @@ wilcox_output_wide <- wilcox_output %>%
     separate(COMPARE, c("Taxa", "SampleA", "SampleB"), sep = "-") %>% 
     data.frame
 head(wilcox_output_wide)
+
+dim(wilcox_output_wide)
 
 write_delim(wilcox_output_wide, path = "Wilcox-paired-output.txt", delim = "\t")
 
